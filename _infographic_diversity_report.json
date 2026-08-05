@@ -1,0 +1,5081 @@
+{
+  "generated_at_utc": "2026-08-05T11:43:58.874921Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 2,
+    "warning_reason_counts": {
+      "single_reader_role": 2
+    }
+  },
+  "pages": [
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_roles_cold_war_72a37d",
+      "title": "Were Aliens Enemies or Warnings",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Hostile Alien Archetypes in Cold War Cinema",
+        "Alien Roles: Enemy vs. Teacher",
+        "Cinematic Elements of Cold War Sci Fi"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.2,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+      "title": "UFO encounter categories",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Hynek's Close Encounter Scale",
+        "UFO Reports vs Science Fiction Narrative",
+        "Evolution of Contact Communication"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "Relationships_betwee_d7372c",
+      "title": "Where UFO Reports Meet Science Fiction's Imagination",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO and Sci Fi Interaction",
+        "Science Fiction vs. UFO Investigation",
+        "Project Blue Book Report Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+      "title": "Alien civilizations",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Alien Narrative Models",
+        "Fictional Alien Civilisation Archetypes",
+        "Fiction vs. Science in SETI"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_benevolent_alien_civ_3202dc",
+      "title": "Why Fiction Imagines Wise Alien Civilisations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Benevolent Alien Tropes",
+        "SETI Research vs. Science Fiction Models",
+        "Hierarchy of Advanced Alien Traits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_gethen_alien_culture_218658",
+      "title": "How Gethen Changed Alien Society Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Genly AI's Cultural Interpretation Process",
+        "Gethenian Biology vs Human Norms",
+        "Gethenian Civilization Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_star_trek_species_po_9fbbc5",
+      "title": "When Alien Species Became Galactic Cultures",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Klingon Political Identity",
+        "Federation vs. Dominion Governance Models",
+        "Vulcan Cultural Development Pillars"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_unknowable_alien_int_217229",
+      "title": "Could Alien Intelligence Be Impossible to Understand",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "timeline_horizon",
+        "lighthouse"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "other"
+      ],
+      "titles": [
+        "Humanoid vs. Radical Alien Designs",
+        "Linguistic Barriers in Arrival",
+        "Solaris and the Limits of Science"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20",
+      "title": "How Martians Created the Alien Invasion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Martian Invasion Narratives",
+        "Martian Threat vs. Human Imperialism",
+        "Core Elements of Wells' Martians"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_xenology_alien_socie_b74545",
+      "title": "How Xenology Shapes Alien Civilisations",
+      "infographic_count": 3,
+      "templates": [
+        "dna_helix",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Core Domains of Xenology Study",
+        "Human vs. Xenological Worldbuilding",
+        "Speculative First Contact Scenarios"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38",
+      "title": "Alien communication",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Models of Alien Communication",
+        "Linguistic Challenges in Arrival",
+        "Voyager Golden Record Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_alien_telepathy_456d45",
+      "title": "When Aliens Communicate Mind To Mind",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Narrative Benefits of Alien Telepathy",
+        "Telepathic Risks vs. Rewards",
+        "Evolution of Alien Intelligence Models"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_contact_message_deco_762792",
+      "title": "How Contact Decodes an Alien Signal",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Decoding the Vega Signal Process",
+        "Humanity's Response to Alien Messages",
+        "Foundations of Extraterrestrial Communication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2",
+      "title": "Why Translation Failed on Darmok",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Picard's Path to Tamarian Underst and ing",
+        "Translation vs. Cultural Interpretation",
+        "Tamarian Linguistic Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_mathematics_alien_la_503a89",
+      "title": "Could Mathematics Speak Across Worlds?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lincos Language Communication Logic",
+        "Mathematical Communication Limitations",
+        "Real World Extraterrestrial Messaging"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598",
+      "title": "Can Technology Translate Alien Minds?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Universal Translator Logic Flow",
+        "Linguistic Relativity in Arrival",
+        "First Contact Failure Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811",
+      "title": "Can Aliens Understand Earth's Message?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Voyager Golden Record Decoding Pathway",
+        "Universal vs. Human Communication Limits",
+        "Golden Record Content Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+      "title": "Alien contact stories",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of First Contact Narratives",
+        "Invasion vs. Contact Narratives",
+        "Themes of Alien Reflection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed",
+      "title": "What Alien Contact Reveals About Humans",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Alien Contact Narratives",
+        "Human Assumptions vs. Alien Realities",
+        "Dimensions of Contact Transformation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+      "title": "How Arrival Made Language the First Contact",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Linguistic Decoding of Heptapod Symbols",
+        "Human vs. Heptapod Communication Models",
+        "Dimensions of First Contact Challenges"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_close_encounters_sig_d40fcf",
+      "title": "How Close Encounters Imagined Peaceful Contact",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Communication Protocol in Close Encounters",
+        "Scientific vs Military Perspectives",
+        "Communication Elements in Close Encounters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_day_earth_warning_aae0cb",
+      "title": "When an Alien Visitor Warned Humanity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Klaatu's Diplomatic Arrival Key Stages",
+        "Invasion vs. Peaceful Contact Tropes",
+        "Themes of The Day the Earth Stood Still"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_et_friendship_755fa7",
+      "title": "How E.T. Turned Contact Into Friendship",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Elliott and E.T. Friendship Development",
+        "Traditional vs. Spielberg Alien Narratives",
+        "E.T.'s Cultural and Narrative Legacy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_seti_signals_ce924c",
+      "title": "Could We Understand an Alien Signal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "SETI Signal Verification Workflow",
+        "Fiction vs. Real SETI Expectations",
+        "Technosignature Detection Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+      "title": "Science fiction alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Alien Visual Design",
+        "Humanoid vs. Non Humanoid Design",
+        "Factors Shaping Alien Design"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_arrival_heptapods_la_315bfa",
+      "title": "Why Arrival's Aliens Think Differently",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Linguistic Fieldwork in Arrival",
+        "Heptapod Design vs Traditional Aliens",
+        "Heptapod Intelligence Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_cgi_alien_design_e07_62f2d1",
+      "title": "How CGI Expanded Alien Possibilities",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Digital Alien Design",
+        "Practical vs. Digital Creature Limits",
+        "Core Elements of Digital Alien Design"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3",
+      "title": "How Grey Aliens Became Cultural Icons",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "process_steps"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Evolution of Alien Visual Culture",
+        "Little Green Men vs Grey Aliens",
+        "The Alien Imagery Feedback Loop"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_star_wars_alien_soci_d9b335",
+      "title": "How Star Wars Made Aliens Feel Alive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Star Wars Alien Design Evolution",
+        "Traditional vs Star Wars Aliens",
+        "Iconic Star Wars Alien Archetypes"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_war_of_worlds_martia_a1ab20",
+      "title": "How Martians Changed Alien Design Forever",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Martian Invasion Imagery",
+        "Wells's Martians vs. Humanoid Aliens",
+        "Core Elements of Martian Design"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_xenomorph_design_evo_98c0d7",
+      "title": "How the Xenomorph Redefined Alien Horror",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Xenomorph Biological Life Cycle",
+        "Traditional vs. Xenomorph Design",
+        "Xenomorph Biological Adaptations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+      "title": "Science fiction",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Star Trek Connectivity",
+        "Speculative vs. Realized Technologies",
+        "Categories of Imagined Alien Tech"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_ai_machine_companion_253178",
+      "title": "When Fiction Imagined Intelligent Machines",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Evolution of AI Companionship",
+        "Fictional vs. Real AI Capabilities",
+        "Risks of AI Companionship"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_clarke_satellite_pre_3ea648",
+      "title": "The Satellite Idea That Connected Earth",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Orbital Communication Networks",
+        "Components of Clarke's Orbital Relay System",
+        "Clarke's Vision vs. Modern Reality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102",
+      "title": "The Giant Alien Structures Scientists Search For",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Dyson Sphere Detection Workflow",
+        "Tabby's Star Interpretation Models",
+        "Technosignature Detection Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_communicat_82460f",
+      "title": "How Star Trek Imagined Phones Before Phones",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Star Trek Communicator vs. Real Mobile Tech",
+        "Core Design Principles of the Communicator",
+        "Evolution of Mobile Communication Concepts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae",
+      "title": "The Star Trek Tablet Before Tablets",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "process_steps",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Star Trek PADD vs Modern Tablets",
+        "Evolution of Portable Knowledge Devices",
+        "PADD Behavioral Predictions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_warp_drive_limits_72bc25",
+      "title": "Can Warp Drives Ever Become Real",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Alcubierre Warp Bubble Mechanics",
+        "Warp Drive Scientific Realities",
+        "Warp Drive Research Barriers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+      "title": "Close Encounters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Hynek's UFO Classification Evolution",
+        "Interpretations of Third Kind Evidence",
+        "Legacy of Spielberg's 1977 Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce",
+      "title": "Why the Hill Encounter Still Divides Researchers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Betty and Barney Hill 1961 Time line",
+        "Interpretations of the Hill Evidence",
+        "Core Elements of the Hill Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_humanoid_report_patt_420235",
+      "title": "Why Do Alien Encounters Repeat Similar Images",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Humanoid Encounter Interpretation Process",
+        "Ariel School Case Interpretations",
+        "Recurring Humanoid Physical Traits"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_pascagoula_encounter_508d7f",
+      "title": "The Pascagoula Encounter: What Witnesses Reported",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Pascagoula Encounter Time line 1973",
+        "Interpretations of the Pascagoula Case",
+        "Evidence Types in Pascagoula Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_spielberg_contact_le_548bca",
+      "title": "How Spielberg Changed Alien Contact Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "orbit"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Spielberg's First Contact Communication Process",
+        "Traditional vs. Spielberg Alien Narratives",
+        "Legacy of Close Encounters Influence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_ufo_story_exchange_2a0ead",
+      "title": "How UFO Reports Became First Contact Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of First Contact Narratives",
+        "UFO Culture vs. Science Fiction",
+        "Core Themes of First Contact"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_witness_memory_facto_1608c1",
+      "title": "Can Memory Change Alien Encounter Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Processing of Unusual Sightings",
+        "Hypnosis and Memory in the Hill Case",
+        "Factors Affecting Third Kind Report Accuracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+      "title": "Cold War alien",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Cold War Alien Cinema Archetypes",
+        "Interpretations of Invasion of the Body Snatchers",
+        "Key Films of 1950 s Alien Cinema"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_invasions_mode_24419e",
+      "title": "How Aliens Reflected Modern War Fears",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of 1950 s Alien Warfare",
+        "Alien Roles in 1950 s Cinema",
+        "Key Themes of Earth vs. the Flying Saucers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_atomic_science_alien_4e26db",
+      "title": "How Nuclear Fears Created Monster Aliens",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Atomic Science in 1950 s Cinema",
+        "Nuclear Anxiety in Atomic Monsters",
+        "UFO Culture and Cold War Rivalry"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600",
+      "title": "The Alien Invasion That Replaced People",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Pod Replacement Mechanism",
+        "Mc Carthy Era Interpretations of Pods",
+        "Core Themes of Identity Fear"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d",
+      "title": "When an Alien Warned Earth About Nukes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Klaatu's Arrival and Warning Key Stages",
+        "Interpretations of Atomic Age Cinema",
+        "Elements of the Alien Observer Role"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88",
+      "title": "When Aliens Took Over the Family",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Martian Infiltration Process",
+        "Invaders from Mars Narrative Layers",
+        "Core Themes of the 1953 Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+      "title": "Early science fiction",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Spacecraft Imagination",
+        "Rocket vs. Saucer Symbolism",
+        "Visual Language of Early Spacecraft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66",
+      "title": "How Fiction Shaped Alien Ship Images",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Label",
+        "Fiction vs. Reality in UFO Interpretation",
+        "Common UFO Shape Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94",
+      "title": "The Magazine That Built Space Dreams",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Amazing Stories Magazine",
+        "Scientifiction vs. Fantasy Literature",
+        "Visual Elements of Early Spacecraft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_early_rocket_designs_4638bc",
+      "title": "Why Early Spacecraft Looked Like Ships",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Spacecraft Imagination",
+        "Verne vs. Wells Spacecraft Logic",
+        "Industrial Traits of Early Rockets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_fiction_to_spaceflig_ecb865",
+      "title": "When Fiction Inspired Spaceflight",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fiction to Spaceflight Pathway",
+        "Fiction vs. Engineering Reality",
+        "Impact of Science Fiction on Astronomy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+      "title": "Why Flying Saucers Became Iconic",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "hub"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Symbol",
+        "Human Aircraft vs. Alien Saucers",
+        "Symbolic Functions of the Disc"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_frank_paul_spacecraf_a06090",
+      "title": "How Frank Paul Drew the Future",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "structure_taxonomy",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Frank R. Paul's Visual Evolution",
+        "Pulp Magazine Spacecraft Characteristics",
+        "Artistic Intent vs. Engineering Reality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_abduction_narratives_9d968d",
+      "title": "Why UFO Abduction Stories Persist",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Alien Abduction Narratives",
+        "Interpretations of Abduction Memories",
+        "Layers of the Abduction Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_encounter_scale_lang_9f4b87",
+      "title": "How UFO Categories Changed Public Language",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "process_pipeline"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Hynek's Close Encounter Classification Scale",
+        "Technical vs. Popular Terminology Usage",
+        "Evolution of Encounter Terminology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_fifth_kind_contact_5868fb",
+      "title": "Can Humans Communicate With Aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "CE 5 Contact Preparation Workflow",
+        "SETI vs. CE 5 Methodology",
+        "Scientific Verification Challenges"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872",
+      "title": "When UFO Sightings Become First Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Investigation Lifecycle Stages",
+        "Hynek Scale Encounter Categories",
+        "Science Fiction Narrative Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_lubbock_lights_case_d809fd",
+      "title": "Why The Lubbock Lights Still Fascinate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1951 Lubbock Lights",
+        "Proposed Explanations for Lubbock Lights",
+        "Evidence Categories in the Lubbock Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_second_kind_traces_8975d7",
+      "title": "Do UFO Encounters Leave Physical Traces?",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Types of CE 2 Physical Effects",
+        "Interpretations of the Delphos Case",
+        "Challenges in CE 2 Evidence Preservation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+      "title": "Extraterrestrial life",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Communication Barriers in First Contact",
+        "Humanoid vs. Non Humanoid Alien Models",
+        "Themes in Extraterrestrial Fiction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_arrival_alien_langua_0dbaeb",
+      "title": "Can humans truly translate aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "bridge"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Linguistic Fieldwork in Arrival",
+        "Human vs Heptapod Communication",
+        "Barriers to First Contact Translation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_contact_signal_decod_1956f0",
+      "title": "How Contact imagines hearing aliens",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SETI Signal Detection Workflow",
+        "Decoding Challenges in Contact",
+        "Real World SETI Milestones"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_solaris_alien_ocean_e9aa0b",
+      "title": "Why Solaris challenges alien understanding",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Solaristics Research Methodology",
+        "Human vs. Solaris Intelligence",
+        "Barriers to Underst and ing Solaris"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_three_body_civilisat_1f9671",
+      "title": "Could alien civilisations coexist peacefully?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "masonry"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Trisolaris Migration and Contact Key Stages",
+        "Dark Forest Theory Survival Logic",
+        "Civilization Level Conflict Dynamics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_unfamiliar_alien_lif_1b32b1",
+      "title": "What if alien life looks nothing human?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Non Humanoid Alien Archetypes in Fiction",
+        "Human vs. Alien Communication Models",
+        "Astrobiology and Fictional Alien Research"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339",
+      "title": "When aliens make humans powerless",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Martian Invasion Progression in England",
+        "Imperialism vs. Martian Colonization",
+        "Core Themes of Human Vulnerability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+      "title": "Human reactions",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of First Contact Narratives",
+        "Human Reactions to Alien Contact",
+        "SETI Post Detection Frameworks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_invasion_fears_98d74d",
+      "title": "Why Alien Invasions Scare Humans",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Alien Invasion Narratives",
+        "Core Fears of Extraterrestrial Discovery",
+        "Psychological Layers of Invasion Fiction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_secrecy_trust_5c7b18",
+      "title": "Why Alien Stories Fear Hidden Truths",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of UFO Secrecy Narratives",
+        "Fiction vs. Real Disclosure Debates",
+        "Hierarchy of Information Access"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_cooperation_cc72d0",
+      "title": "Can Alien Contact Unite Humanity?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of First Contact Narratives",
+        "Communication vs. Conflict Dynamics",
+        "SETI Protocol Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_scenario_res_703ffa",
+      "title": "Would Humans React Differently to Contact?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "SETI Signal Detection Protocol",
+        "Alien Contact Emotional Scenarios",
+        "Human Reactions to the Unknown"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_seti_detection_respo_969545",
+      "title": "How Scientists Would Announce Alien Signals",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "SETI Signal Verification Workflow",
+        "Detection vs. Reply Protocols",
+        "Categories of Signal Communication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_welles_broadcast_rea_1577cb",
+      "title": "When Fiction Felt Like Alien Invasion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mercury Theatre Broadcast Key Stages",
+        "Interpretations of Public Panic",
+        "Factors Influencing Listener Belief"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+      "title": "Flying saucer imagery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Image",
+        "Saucer Symbolism in 1950 s Cinema",
+        "Cultural Reach of Saucer Imagery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_close_encounters_des_5bab5a",
+      "title": "How Close Encounters Changed Alien Ships",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of UFO Cinema Imagery",
+        "Mothership Design Components",
+        "Mothership Creation Workflow"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_flying_saucer_toys_185774",
+      "title": "How Flying Saucer Toys Shaped Childhood",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Space Age Toys",
+        "Rocket vs. Saucer Toy Dynamics",
+        "Vintage Saucer Collector Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_independence_day_sau_a644de",
+      "title": "Why Independence Day Made Saucers Huge",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of the Sci Fi Saucer",
+        "Saucer Design: Exploration vs Occupation",
+        "Independence Day Production Success"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_modern_alien_craft_d4df0b",
+      "title": "Why Modern Aliens Left Saucers Behind",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of Alien Craft Design",
+        "Case Studies in Modern Alien Craft",
+        "Shift in Science Fiction Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_saucer_advertising_d_6f3b4e",
+      "title": "Why Brands Used Flying Saucers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Saucer Symbol",
+        "Symbolic Tensions of the Saucer",
+        "Space Age Design Applications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_tv_ufo_imagery_5ff01d",
+      "title": "Why TV Loved the Flying Saucer",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "other"
+      ],
+      "titles": [
+        "Evolution of the Television Saucer",
+        "Genre Uses of Saucer Imagery",
+        "Live Action vs Animation Saucers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+      "title": "Future encounters",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of First Contact Narratives",
+        "Human vs. Alien Intelligence Models",
+        "NASA Technosignature Detection Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_ai_alien_encounters_00943d",
+      "title": "Could First Contact Be With Machines",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution Toward Post Biological Intelligence",
+        "Biological vs. Machine First Contact",
+        "NASA Technosignature Detection Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_arrival_language_cha_b8d036",
+      "title": "How Arrival Changed Alien Communication Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Linguistic Fieldwork in Arrival",
+        "Linguistic Relativity in Arrival",
+        "Heptapod B Communication Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_blc1_signal_verifica_9e9033",
+      "title": "The Signal That Was Not Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "BLC 1 Signal Verification Workflow",
+        "BLC 1 Signal: Clue vs. Evidence",
+        "Verification Framework for Technosignatures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_contact_message_disc_86e8b8",
+      "title": "When a Message From Space Changes Everything",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "SETI Signal Detection Protocol",
+        "Contact vs. Traditional UFO Narratives",
+        "NASA Technosignature Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0",
+      "title": "When Alien Messages Take Centuries",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Arecibo Message Transmission Time line",
+        "Voyager Golden Record vs. Arecibo Message",
+        "Challenges of Interstellar Communication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_solaris_alien_intell_784911",
+      "title": "When Aliens Think Beyond Humans",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Solaris Research Progression",
+        "Interpretations of the Solaris Ocean",
+        "Themes in Solaris Alien Intelligence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809",
+      "title": "J Allen Hynek",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "J. Allen Hynek's Scientific Transition",
+        "Hynek's Primary Sighting Categories",
+        "The Close Encounter Scale"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_ce4_abduction_report_b5dacd",
+      "title": "How Abduction Stories Expanded UFO Categories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Hill Case Narrative",
+        "Debates Over CE 4 Evidence Validity",
+        "CE 4 Cultural and Research Impact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_close_encounte_73c34e",
+      "title": "How Hynek Changed Alien Contact Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Escalation of Close Encounter Stages",
+        "Invasion vs. Contact Narratives",
+        "Hynek's UFO Classification Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_cufos_legacy_c13715",
+      "title": "How Hynek Continued UFO Research",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "CUFOS Evolution After Project Blue Book",
+        "CUFOS Archival vs. Government Records",
+        "CUFOS Research Infrastructure Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+      "title": "What UFO Sightings Actually Meant",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Hynek's Nocturnal Lights vs Daylight Discs",
+        "Hynek's UFO Classification Categories",
+        "Analysis of Nocturnal Light Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc",
+      "title": "How Early UFO Reports Were Classified",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "lighthouse"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Project Sign Investigation Workflow",
+        "Hynek's Astronomical Classification Criteria",
+        "Project Sign Legacy and Evolution"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+      "title": "Why Third Kind Encounters Became Iconic",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Third Kind Terminology",
+        "Narrative Shifts in Alien Fiction",
+        "Core Elements of Third Kind Encounters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+      "title": "Alien invasion versus",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_horizon",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Invasion vs. Contact Narratives",
+        "Evolution of Alien Fiction",
+        "Scientific Search for Intelligence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_communication_f1ed3b",
+      "title": "Why talking to aliens is so difficult",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Linguistic Steps in Arrival Contact",
+        "Communication Methods in Sci Fi",
+        "Barriers to Shared Meaning"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_technology_imb_2ada8d",
+      "title": "When alien technology becomes the threat",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "versus",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Mechanisms of Alien Technological Fear",
+        "War of the Worlds vs. Independence Day",
+        "Human Reaction to Superior Technology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_human_alien_reaction_7ba2fc",
+      "title": "How humans might react to alien contact",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "SETI Signal Verification Protocol",
+        "Human Responses to Unknown Intelligence",
+        "Barriers to Interstellar Communication"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_independence_day_inv_5b1c0f",
+      "title": "Why Independence Day defined modern invasions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Humanity's Response to Alien Invasion",
+        "Alien Technology vs Human Resilience",
+        "Independence Day Film Legacy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_meti_message_debate_5ec9ad",
+      "title": "Should humans send messages to aliens",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of Earth's Alien Messages",
+        "METI Proponents vs. Critics",
+        "METI Communication Frameworks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77",
+      "title": "How War of the Worlds changed alien invasions",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Martian Invasion Colonial Parallels",
+        "Martian Behavior vs. Human Empire",
+        "Legacy of the Martian Invasion Template"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+      "title": "Kenneth Arnold",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Flying Saucer Sighting",
+        "Arnold's Observation vs. Media Interpretation",
+        "Factors Shaping the Flying Saucer Icon"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_1947_technology_cont_b1047a",
+      "title": "Why 1947 Made Saucers Seem Possible",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of 1947 Aviation Context",
+        "Interpretations of 1947 Sightings",
+        "Factors Shaping UFO Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_explanations_a5b806",
+      "title": "What Explains Arnold's Unusual Objects?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kenneth Arnold Sighting Key Stages",
+        "Proposed Explanations for the Objects",
+        "Evidence Types in the Arnold Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_shape_debate_239c2c",
+      "title": "What Did Arnold Actually Describe?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Image",
+        "Arnold's Sketches vs. Popular Culture",
+        "Arnold's Reported Object Characteristics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e",
+      "title": "How Arnold's Sighting Created Flying Saucers",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Label",
+        "Arnold's Account vs. Public Image",
+        "Factors Shaping UFO Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_media_saucer_transfo_d7a23d",
+      "title": "How Newspapers Built the Saucer Image",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "logic_equation"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Phrase",
+        "Abstract vs. Visual Descriptions",
+        "Components of the Saucer Symbol"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_saucer_scifi_impact_11657b",
+      "title": "How Saucers Changed Alien Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Alien Craft Imagery",
+        "Saucer Narrative Functions in Film",
+        "Symbolic Traits of the Flying Saucer"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+      "title": "Media shaping public",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Time line",
+        "Media Interpretations of Unidentified Phenomena",
+        "UFO Culture Media Channels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391",
+      "title": "Why Project Blue Book Still Shapes UFO Debates",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Project Blue Book Operational Time line",
+        "Interpretations of Unidentified Cases",
+        "Project Blue Book Data Summary"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa",
+      "title": "How One Film Defined UFO Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of the Close Encounter Term",
+        "Spielberg vs. Traditional Sci Fi Tropes",
+        "Visual Frameworks of UFO Contact"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d",
+      "title": "How The Internet Changed UFO Beliefs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO Report Lifecycle in Online Communities",
+        "Competing Interpretations of Viral UFO Footage",
+        "Specialized Roles in Online UFO Communities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9",
+      "title": "How TV News Frames UFO Reports",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Television News Framing of UFOs",
+        "Expert Framing and Audience Beliefs",
+        "Public Perception of UFO Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+      "title": "UFO Documentaries Rarely Prove That Unidentified Objects",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Documentary Authority Construction Process",
+        "UAP Evidence vs. Documentary Narrative",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+      "title": "How The X Files Changed UFO Mysteries",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "X Files Narrative Evolution Steps",
+        "Mulder vs Scully Investigation Styles",
+        "X Files Visual and Narrative Conventions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665",
+      "title": "Military technology",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Alien Invasion Narratives",
+        "Human vs. Alien Technology Dynamics",
+        "Themes of Military Technology Fear"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_alien_nuclear_fears_348b09",
+      "title": "How Alien Stories Reflect Nuclear Anxiety",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Alien Invasion Narratives",
+        "Interpretations of The Day the Earth Stood Still",
+        "Themes of Nuclear Era Alien Fiction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_alien_weapon_failure_2a7f06",
+      "title": "Why Alien Technology Beats Human Weapons",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Human Defense Failure Key Stages",
+        "Human vs. Alien Warfare Dynamics",
+        "Alien Technology Gap Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_area_51_technology_s_06ba3a",
+      "title": "Why Area 51 Became Alien Technology Symbol",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Area 51 Cold War Aerospace History",
+        "Area 51: Documented vs. Mythological Claims",
+        "Components of Area 51 Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_day_earth_stood_stil_5b06df",
+      "title": "When Earth Attacked a Peaceful Visitor",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Military Response to Klaatu's Arrival",
+        "Human Defense vs. Alien Technology",
+        "Themes of Nuclear Anxiety in Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf",
+      "title": "How Independence Day Defeated Alien Defences",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Human Counteroffensive Strategy Key Stages",
+        "Human Weapons vs Alien Shields",
+        "Area 51 Technology Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_military_technology_d86665_war_worlds_weapon_ad_04828a",
+      "title": "Why Human Weapons Failed Against Martian Machines",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_horizon",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Victorian Warfare vs Martian Technology",
+        "Evolution of Martian Invasion Media",
+        "Themes of Technological Helplessness"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262",
+      "title": "Project Blue Book",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Cold War Security Priorities vs. Alien Theory",
+        "Project Blue Book Final Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_case_files_ee1010",
+      "title": "How Blue Book Explained Strange Sightings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Common Explanations in Blue Book Files",
+        "Criteria for Unresolved UFO Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_closure_c42198",
+      "title": "What Happened After Blue Book Closed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Closure Time line",
+        "Condon Report Interpretations",
+        "Post 1969 Cultural Shifts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7",
+      "title": "Why the Cold War Made UFOs Matter",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of US UFO Investigations",
+        "Cold War Security Interpretations",
+        "UFOs in Cold War Culture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0",
+      "title": "The Scientist Who Changed UFO Investigation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_petal"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "J. Allen Hynek's Career Evolution",
+        "Hynek's Shifting Scientific Perspectives",
+        "Hynek's Close Encounter Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_michigan_1966_sighti_7280ca",
+      "title": "Why Michigan's 1966 UFO Sightings Endured",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1966 Michigan UFO Flap",
+        "Competing Explanations for Michigan Lights",
+        "Impact of the Michigan UFO Flap"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_ufo_evidence_limits_0fab89",
+      "title": "Why Unidentified Does Not Mean Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Investigation Workflow",
+        "Unidentified vs. Extraordinary Claims",
+        "Factors Limiting UFO Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+      "title": "Roswell and modern",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Incident",
+        "Interpretations of the Roswell Debris",
+        "Science Fiction Elements in Roswell"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0",
+      "title": "How Project Mogul Changed Roswell's Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Project Mogul Roswell Investigation Time line",
+        "Roswell Debris Interpretations",
+        "Project Mogul Technical Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_alien_bodies_fe175f",
+      "title": "Did Roswell Involve Alien Bodies?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Roswell Alien Body Claims",
+        "Interpretations of Recovered Bodies",
+        "Factors Sustaining Roswell Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_coverup_clai_4f5888",
+      "title": "Why Roswell Became a Cover Up Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Incident Time line 1947",
+        "Interpretations of Roswell Secrecy",
+        "Elements of UFO Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_debris_debat_6da634",
+      "title": "What Was the Roswell Debris Really?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1947 Roswell Discovery",
+        "Competing Interpretations of Roswell Debris",
+        "Evidence Types in the Roswell Dispute"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_scifi_influe_1eee6f",
+      "title": "How Roswell Changed Alien Stories",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Roswell Narrative Layers in Fiction",
+        "Roswell Fiction vs. Historical Reality",
+        "Evolution of Roswell Storytelling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_tourism_memo_a75dc3",
+      "title": "How Roswell Became a UFO Destination",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell UFO Tourism Evolution",
+        "Museum Narrative Interpretations",
+        "Roswell Festival Economic Impact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+      "title": "Secret technology themes",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Reverse Engineering Alien Technology Workflow",
+        "Alien Technology in Fiction Genres",
+        "Forms of Secret Alien Technology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_ai_machine_min_152e78",
+      "title": "Could Alien Machines Think Beyond US?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Alien AI Fiction",
+        "Human vs. Alien AI Reasoning",
+        "Mechanisms of Technological Uncertainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_materials_reve_6e0615",
+      "title": "Why Alien Materials Are Hard To Copy",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reverse Engineering Scientific Barriers",
+        "AARO Metallic Sample Findings",
+        "Science Fiction Technological Barriers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_propulsion_sys_6fcffa",
+      "title": "When Alien Engines Rewrite Human Physics",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Alcubierre Warp Drive Mechanics",
+        "Human vs. Alien Propulsion Models",
+        "Barriers to Interstellar Travel"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_stargate_technology_2b8f09",
+      "title": "How Stargate Handles Alien Technology",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Human Adaptation of Ancient Technology",
+        "Stargate vs. Dial Home Device (DHD)",
+        "Risks of Advanced Alien Technology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_ufo_crash_retrieval_b3e5ec",
+      "title": "Do Recovered UFOs Hide Alien Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Crash Retrieval Narratives",
+        "AARO Historical Record Report Findings",
+        "Elements of Crash Retrieval Fiction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b",
+      "title": "The X Files and Hidden Alien Tech",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "The Syndicate's Technology Extraction Process",
+        "Knowledge Control vs. Public Disclosure",
+        "Biological Technology in X Files Mythology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+      "title": "UAP debates",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Science Fiction Contact Narratives",
+        "Science vs. Science Fiction Frameworks",
+        "AARO and NASA UAP Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_ai_alien_intelligenc_7b3725",
+      "title": "How AI Changes Alien Intelligence Stories",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "timeline_vertical",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of Alien Intelligence Tropes",
+        "Transition to Post Biological Intelligence",
+        "Themes in AI Driven Alien Fiction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_modern_contact_films_e3f844",
+      "title": "How Contact Films Explore UAP Questions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Alien Contact Narratives",
+        "UAP Interpretation vs. Film Narrative",
+        "Themes in Modern Contact Cinema"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_nasa_uap_study_25636b",
+      "title": "How NASA Studied Unexplained UAP Reports",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Quality Workflow",
+        "NASA UAP Scientific Frameworks",
+        "NASA UAP Infrastructure Tools"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_pentagon_uap_review_902aab",
+      "title": "What the Pentagon Found About Alien Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Historical Review Process",
+        "UAP Interpretation Frameworks",
+        "Factors Influencing UAP Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_secret_technology_tr_587e6d",
+      "title": "Why Hidden Technology Stories Persist",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Reverse Engineering Narrative Cycle",
+        "Human vs. Extraterrestrial Technology Claims",
+        "Drivers of the Secret Technology Trope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_uap_modern_debates_dba413_uap_disclosure_movem_7f4d97",
+      "title": "Why Disclosure Stories Shape UAP Debates",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UAP Disclosure Frameworks",
+        "Interpretations of UAP Secrecy Narratives",
+        "Roots of Modern Disclosure Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+      "title": "UFO documentaries",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Documentary Reconstruction of UFO Mysteries",
+        "Documentary Narrative vs. Scientific Inquiry",
+        "Science Fiction Themes in UFO Documentaries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_ariel_school_witness_14997c",
+      "title": "Ariel School story and witness memory debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ariel School Encounter Key Stages",
+        "Interpretations of Ariel School Memories",
+        "Components of the Ariel Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_netflix_encounters_s_a02e2e",
+      "title": "Netflix Encounters and global UFO storytelling impact",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Global UFO Case Studies in Encounters",
+        "Documentary Narrative vs. Science Fiction",
+        "Netflix Streaming Era Storytelling Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_phenomenon_disclosur_b7d45b",
+      "title": "The Phenomenon film and disclosure storytelling",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "UFO History Narrative Arc",
+        "Documentary Narrative Interpretations",
+        "The Phenomenon's Authority Figures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_documentary_edit_65981b",
+      "title": "UFO documentary editing and mystery construction",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Narrative Construction in The Phenomenon",
+        "Editing Effects on Viewer Perception",
+        "Documentary Witness Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_evidence_emotion_65ba23",
+      "title": "UFO documentaries and evidence versus emotion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Documentary Narrative Construction Flow",
+        "Evidence vs. Persuasion Dynamics",
+        "AARO Historical Record Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_uap_public_atten_30db5d",
+      "title": "UFO documentaries and public UAP attention",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Narrative Evolution Time line",
+        "Documentary Influence vs. Empirical Evidence",
+        "Modern UAP Documentary Frameworks"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+      "title": "Scientific explanations",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Scientific UAP Data Collection Workflow",
+        "Common Misidentifications vs. Natural Phenomena",
+        "Historical UAP Investigation Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_aaro_alien_technolog_aea42f",
+      "title": "What AARO Found About Alien Technology Claims",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Historical Record Findings",
+        "UAP Evidence vs. Scientific Standards",
+        "Resolved vs. Unresolved UAP Cases"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+      "title": "What The Condon Report Concluded",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Condon Report Investigation Workflow",
+        "Condon Report Interpretations and Debates",
+        "Conventional Explanations in Condon Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8",
+      "title": "What NASA Found About UAP Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Scientific Investigation Workflow",
+        "NASA UAP Evidence vs. Extraterrestrial Claims",
+        "NASA Identified Data Weaknesses in UAP"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_uap_balloon_explanat_bf0369",
+      "title": "Why Balloons Can Look Like UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Balloon Identification Workflow",
+        "Balloon vs. UAP Perception Factors",
+        "AARO Resolved Balloon Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_ufo_perception_error_3da088",
+      "title": "Why The Brain Misreads Strange Objects",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Human Perception of UAP Sightings",
+        "NASA UAP Data Quality Standards",
+        "Factors Influencing Motion Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_venus_ufo_sightings_b449b9",
+      "title": "When Venus Was Mistaken for a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Venus Sighting Scientific Evaluation",
+        "Venus vs. UFO Interpretation",
+        "Historical Venus Case Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+      "title": "UFO culture",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Community Structures",
+        "Interpretations of the Roswell Incident",
+        "Components of UFO Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_mufon_network_7b94f3",
+      "title": "How MUFON Built a UFO Research Community",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "MUFON Organizational Evolution Time line",
+        "MUFON vs. Science Fiction Fandom",
+        "MUFON Field Investigator Training Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_online_ufo_communiti_c9607d",
+      "title": "How Online UFO Groups Changed Participation",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Pre Internet vs. Digital UFO Networks",
+        "Drivers of Online UFO Misinformation",
+        "AARO Findings on UAP Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_roswell_culture_8eb3e3",
+      "title": "Why Roswell Became a UFO Gathering Place",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell's Evolution into Cultural Symbol",
+        "Diverse Visitor Perspectives in Roswell",
+        "Roswell Festival Experience Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_scifi_magazines_ufo_132444",
+      "title": "How Sci Fi Magazines Shaped UFO Fans",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Cultural Infrastructure",
+        "Interpretations of Science Fiction Influence",
+        "Shared Vocabulary of UFO Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_conventions_e91087",
+      "title": "How UFO Conventions Create Shared Identity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Convention Community Formation",
+        "UFO Convention Cultural Dynamics",
+        "Roswell UFO Festival Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_symbols_imagery_fb82a9",
+      "title": "Why Alien Symbols Define UFO Fandom",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Core Visuals of UFO Fandom",
+        "UFO Culture in Roswell, New Mexico",
+        "Fan Expressions of Alien Imagery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+      "title": "UFO reports",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Science Fiction",
+        "Interpretations of UFO Reports",
+        "Science Fiction Narrative Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_1950s_ufo_films_50f9f4",
+      "title": "Why 1950 s UFO Films Feared The Sky",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of 1950 s Saucer Cinema",
+        "Saucer Symbolism vs. Invasion Tropes",
+        "Narrative Roles of the Flying Saucer"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_arnold_flying_saucer_7c1bb0",
+      "title": "The Sighting That Created Flying Saucers",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Image",
+        "Arnold's Report vs. Media Interpretation",
+        "Saucer Functions in Science Fiction"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_roswell_alien_techno_3f6287",
+      "title": "How Roswell Shaped Alien Technology Stories",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Mystery",
+        "Interpretations of Roswell Debris",
+        "Layers of the Roswell Mythology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_abduction_narrat_6dc361",
+      "title": "How Abduction Reports Changed Alien Encounters",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Hill Case Narrative Template",
+        "Interpretations of Abduction Experiences",
+        "Science Fiction Themes from Abductions"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+      "title": "How UFO Reports Imagined First Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Narrative",
+        "Human Responses to Extraterrestrial Contact",
+        "Narrative Elements of UFO Fiction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_recovery_stories_67c595",
+      "title": "When Crashed UFOs Became Science Fiction",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "comparison_columns"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Roswell Incident Historical Key Stages",
+        "Roswell Narrative vs. Official Record",
+        "Science Fiction Narrative Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+      "title": "The cultural impact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Symbol",
+        "Interpretations of UFO Imagery in Fiction",
+        "Components of UFO Cultural Identity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_cold_war_ufo_films_71460e",
+      "title": "When UFOs Reflected Cold War Fears",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of 1950 s UFO Cinema",
+        "Alien Roles in Cold War Films",
+        "Cold War Anxiety Themes in Sci Fi"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_flying_saucer_symbol_23f5ae",
+      "title": "How Flying Saucers Became Alien Icons",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Icon",
+        "Saucer Symbolism in Science Fiction",
+        "Design Traits of the Flying Saucer"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_grey_alien_symbol_af3892",
+      "title": "How Grey Aliens Defined Extraterrestrial Images",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "prism",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Grey Alien Image",
+        "Anatomy of the Grey Alien Design",
+        "Interpretations of the Grey Alien"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_roswell_cultural_sym_cffd07",
+      "title": "Why Roswell Became a UFO Legend",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Key Stages in the Roswell Narrative",
+        "Interpretations of the Roswell Debris",
+        "Roswell's Economic and Cultural Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_space_age_design_4e9188",
+      "title": "How UFO Shapes Changed Space Age Design",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Space Age Design",
+        "Googie vs. TWA Flight Center",
+        "Space Age Design Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_ufo_emoji_culture_98f008",
+      "title": "How the UFO Emoji Went Mainstream",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Emoji",
+        "UFO Emoji Contextual Meanings",
+        "Unicode 10.0 Emoji Framework Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1",
+      "title": "Television s role",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Television Narratives",
+        "The X Files Narrative Dichotomy",
+        "Television's Unique Storytelling Powers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_cold_war_ufo_tv_d7e77c",
+      "title": "When UFO Shows Reflected Cold War Fears",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "comparison_columns",
+        "process_steps"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "Cold War UFO Television Themes",
+        "UFO Narrative Evolution in Television",
+        "UFO Television and Project Blue Book"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_modern_uap_televisio_b07693",
+      "title": "How UAP Changed UFO Television",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Television Narrative",
+        "UFO vs UAP Narrative Framing",
+        "NASA UAP Scientific Framework"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_project_blue_book_se_1a221a",
+      "title": "How Project Blue Book Became TV Drama",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project Blue Book Historical Time line",
+        "Historical Record vs. TV Drama",
+        "Project Blue Book Classification Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_project_ufo_tv_drama_84c93d",
+      "title": "How Project U.F.O. Dramatized UFO Cases",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Project U.F.O. Investigation Workflow",
+        "Project U.F.O. vs. Traditional Sci Fi",
+        "Key Cases in Project U.F.O"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0",
+      "title": "Why UFO Mysteries Work On Television",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Television UFO Investigation Workflow",
+        "The X Files Belief vs Scepticism Balance",
+        "UFO Mystery Television Programs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_television_f616b1_x_files_storytelling_ee23a8",
+      "title": "How The X Files Changed UFO Stories",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mulder and Scully's Opposing Approaches",
+        "Evolution of UFO Storytelling Models",
+        "The X Files Narrative Structure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+      "title": "UFO imagery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of UFO Cinematic Imagery",
+        "Invasion vs. Contact Visuals",
+        "UFO Imagery Design Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+      "title": "When UFOs Became Symbols Of Invasion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of 1950 s UFO Cinema",
+        "Interpretations of Invasion of the Body Snatchers",
+        "Key 1950 s Invasion Film Variations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_flying_saucer_design_f989fd",
+      "title": "Why Flying Saucers Became UFO Icons",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tree_map",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Flying Saucer Icon",
+        "Design Elements of Saucer Geometry",
+        "Saucer Symbolism in Cinema"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_historical_sky_ufo_i_85161a",
+      "title": "Before UFOs, Artists Painted Strange Skies",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_butterfly"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Sky Imagery Traditions",
+        "Nuremberg 1561 Phenomenon Interpretations",
+        "Visual Elements of Sky Imagery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_science_fiction_ufo_e8f606",
+      "title": "How UFO Art Shaped Alien Visions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of UFO Visual Language",
+        "Recurring UFO Visual Formulas",
+        "Influence of Paperback Covers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680",
+      "title": "How UFOs Changed From Threats To Contact",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of UFO Narrative in Film",
+        "Invasion vs. Contact Narratives",
+        "Symbolic Meanings of UFO Imagery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_film_lighting_ef_a2e9d7",
+      "title": "How Films Make UFOs Feel Real",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Cinematic UFO Encounter Key Stages",
+        "UFO Visual Style Comparison",
+        "Cinematic Lighting Techniques"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+      "title": "The War",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evolution of Martian Invasion Narratives",
+        "Interpretations of the 1938 Broadcast",
+        "Wells's Narrative Template Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1938_radio_broadcast_0153df",
+      "title": "When Martians Hit the Radio Waves",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Simulated News Broadcast Mechanics",
+        "Interpretations of Public Panic",
+        "Legacy of the 1938 Broadcast"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff",
+      "title": "How the 1953 Film Changed Invasion Stories",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Martian Invasion Narrative",
+        "Novel vs. 1953 Film Dynamics",
+        "Martian Technology and Visual Effects"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_2005_spielberg_film_f8b80e",
+      "title": "Why Spielberg Made Invasion Personal",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Ray Ferrier's Survival Journey",
+        "Spielberg vs. Traditional Invasion Films",
+        "Elements of Civilian Vulnerability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_human_vulnerability_dc0c8c",
+      "title": "When Humans Meet a Superior Civilization",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Martian Invasion Technological Progression",
+        "Imperialism Reversal in The War of the Worlds",
+        "Human Institutional Failures Under Invasion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59",
+      "title": "How Music Kept Wells's Martians Alive",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Evolution of Jeff Wayne's Adaptation",
+        "Audio vs. Visual Invasion Experience",
+        "Commercial Success of Jeff Wayne's Album"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+      "title": "How Martian Machines Shaped UFO Images",
+      "infographic_count": 3,
+      "templates": [
+        "lighthouse",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "other",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Wellsian Martian Technology Framework",
+        "Evolution of Alien Craft Imagery",
+        "Science Fiction and UFO Interpretation"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

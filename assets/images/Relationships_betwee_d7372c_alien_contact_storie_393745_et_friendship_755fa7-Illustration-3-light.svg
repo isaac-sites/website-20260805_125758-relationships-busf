@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="light" data-semantic-intent="taxonomy_list" data-relation-type="taxonomy" data-site-visual-identity="editorial-atlas">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-family-body: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --font-heading: var(--font-family-headline);
+    --font-body: var(--font-family-body);
+    --font-size-h1: 64px;
+    --font-size-h2: 42px;
+    --font-size-h3: 29px;
+    --font-size-body: 21px;
+    --font-size-caption: 17px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #0e7490;
+    --accent-2: #0369a1;
+    --accent-3: #1d4ed8;
+    --accent-4: #4338ca;
+    --accent-5: #0f766e;
+    --accent-6: #b45309;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --accent-1: #67e8f9;
+    --accent-2: #38bdf8;
+    --accent-3: #60a5fa;
+    --accent-4: #818cf8;
+    --accent-5: #22d3ee;
+    --accent-6: #fbbf24;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --accent-1: #0e7490;
+    --accent-2: #0369a1;
+    --accent-3: #1d4ed8;
+    --accent-4: #4338ca;
+    --accent-5: #0f766e;
+    --accent-6: #b45309;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg86d10302-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svg86d10302-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <filter id="svg86d10302-beam-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <radialGradient id="svg86d10302-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg86d10302-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg86d10302-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg86d10302-prism-glass-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="var(--inverse-text)" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="svg86d10302-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <marker id="svg86d10302-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg86d10302-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg86d10302-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="800" font-size="56" fill="#0f172a" style="font-size: 69px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-1.2px;" data-final-font-size="69">
+    <tspan x="960.0" dy="70.47px">E.T.'s Cultural and Narrative Legacy</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <path d="M 0 540 L 598 540" stroke="var(--primary-text)" stroke-width="20" stroke-linecap="round" opacity="0.08"/>
+  <path d="M 0 540 L 598 540" stroke="var(--primary-text)" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
+  <text x="200" y="500" font-weight="bold" font-size="32" fill="var(--muted-text)">INPUT</text>
+  <ellipse id="PRISM_ART_SHADOW" cx="690" cy="718" rx="180" ry="38" fill="var(--primary-text)" opacity="0.055"/>
+  <path d="M 600 690 L 600 390 L 840 540 Z" fill="var(--panel)" fill-opacity="0.72" stroke="var(--primary-text)" stroke-width="9" stroke-opacity="0.75"/>
+  <path id="PRISM_ART_GLASS_SHEEN" d="M 622 426 L 622 654 L 792 540 Z" fill="url(#svg86d10302-prism-glass-sheen)" opacity="0.88"/>
+  <path d="M 600 540 L 756 540" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.28"/>
+  <path d="M 600 390 L 688 540 L 600 690" fill="none" stroke="var(--primary-text)" stroke-width="3" stroke-opacity="0.18"/>
+  <g>
+    <line x1="840" y1="540" x2="1100" y2="275" stroke="var(--accent-1)" stroke-width="18" stroke-linecap="round" opacity="0.18" filter="url(#svg86d10302-beam-glow)"/>
+    <line x1="840" y1="540" x2="1100" y2="275" stroke="var(--accent-1)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+    <g transform="translate(1100, 275)">
+      <path id="ITEM_1_BG" d="M 0 -60 L 610 -60 L 740 15 L 610 90 L 0 90 L 56 15 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-1)" stroke-width="3" filter="url(#svg86d10302-shadow)"/>
+      <rect id="ITEM_1_TEXT_BG" x="138" y="-42" width="520" height="114" rx="18" fill="var(--panel)" fill-opacity="0.9" stroke="var(--primary-text)" stroke-opacity="0.1" stroke-width="1.5"/>
+      <rect x="150" y="-32" width="496" height="94" rx="14" fill="url(#svg86d10302-universal-surface-sheen)" opacity="0.76"/>
+      <circle cx="82" cy="15" r="56" fill="url(#svg86d10302-universal-icon-aura)" opacity="0.82"/>
+      <circle id="ITEM_1_PAD" cx="82" cy="15" r="40" fill="var(--icon-pad-bg)" stroke="var(--accent-1)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_1_PAD_INNER" cx="82" cy="15" r="31.20" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="82" cy="15" r="32" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_1_ICON" transform="translate(50, -17)" data-icon-size="64" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-5.236363636363636,-5.236363636363636) scale(0.14545454545454545)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M81.524 176.5C47.946 133.786 38.598 114.37 36 106.534a27.41 27.41 0 0 1 30.514-7.851l230.6 84.722a53 53 0 0 1 31.474 31.474l84.722 230.6a27.41 27.41 0 0 1-7.851 30.514c-7.794-2.584-27.252-11.946-69.966-45.524c-40.342-31.714-87.815-74.428-133.664-120.277s-88.59-93.35-120.305-133.692m104.307 149.676c-49.576-49.577-96.569-102.245-128.905-144.494a692 692 0 0 1-13.259-17.862l47.91 109.842a164.5 164.5 0 0 1 4.59 119.783l-11.932 34.313l34.313-11.932a164.5 164.5 0 0 1 119.783 4.59l109.842 47.91a692 692 0 0 1-17.862-13.26c-42.234-32.363-94.903-79.356-144.48-128.932zm281.56-281.56a29.413 29.413 0 0 0-41.585 0L387.33 83.08l41.556 41.556l38.52-38.52a29.413 29.413 0 0 0 0-41.556zM339.319 187.712l60.35-60.35l-15.066-15.01l-60.35 60.293a74 74 0 0 1 15.066 15.067" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+      <text id="ITEM_1_HEAD" x="162.0" y="-30.0" font-weight="700" font-size="27" fill="var(--accent-1)" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="162.0" dy="29.76px">Childhood Wonder</tspan>
+      </text>
+      <rect id="ITEM_1_HEAD_FRAME" x="162" y="-30" width="472" height="36" fill="none"/>
+      <text id="ITEM_1_BODY" x="162.0" y="10.0" font-size="18.5" fill="var(--primary-text)" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="162.0" dy="21.98px">The film captures the essence</tspan>
+        <tspan x="162.0" dy="26.45px">of early memories</tspan>
+      </text>
+      <rect id="ITEM_1_BODY_FRAME" x="162" y="10" width="468" height="60" fill="none"/>
+    </g>
+    <line x1="840" y1="540" x2="1100" y2="425" stroke="var(--accent-2)" stroke-width="18" stroke-linecap="round" opacity="0.18" filter="url(#svg86d10302-beam-glow)"/>
+    <line x1="840" y1="540" x2="1100" y2="425" stroke="var(--accent-2)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+    <g transform="translate(1100, 425)">
+      <path id="ITEM_2_BG" d="M 0 -60 L 610 -60 L 740 15 L 610 90 L 0 90 L 56 15 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-2)" stroke-width="3" filter="url(#svg86d10302-shadow)"/>
+      <rect id="ITEM_2_TEXT_BG" x="138" y="-42" width="520" height="114" rx="18" fill="var(--panel)" fill-opacity="0.9" stroke="var(--primary-text)" stroke-opacity="0.1" stroke-width="1.5"/>
+      <rect x="150" y="-32" width="496" height="94" rx="14" fill="url(#svg86d10302-universal-surface-sheen)" opacity="0.76"/>
+      <circle cx="82" cy="15" r="56" fill="url(#svg86d10302-universal-icon-aura)" opacity="0.82"/>
+      <circle id="ITEM_2_PAD" cx="82" cy="15" r="40" fill="var(--icon-pad-bg)" stroke="var(--accent-2)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_2_PAD_INNER" cx="82" cy="15" r="31.20" fill="var(--accent-2)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="82" cy="15" r="32" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_2_ICON" transform="translate(50, -17)" data-icon-size="64" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-4.571428571428571,-4.571428571428571) scale(2.2857142857142856)">
+          <path d="M22.39 6.45001C20.1 6.45001 18.07 7.53001 16.76 9.20001V9.15001V8.73001H16.75C16.53 4.98001 13.42 2 9.61 2H2C2 5.95 5.20001 9.15001 9.15001 9.15001H14.34V21.61H16.76V13.61H22.85C26.8 13.61 30 10.41 30 6.46001H22.39V6.45001Z" fill="#86D72F"/>
+          <path d="M15.5501 21C10.5854 21 6.56024 25.0252 6.56024 29.9899H24.5499C24.5499 25.0252 20.5248 21 15.5501 21Z" fill="#6D4534"/>
+        </g>
+      </g>
+      <text id="ITEM_2_HEAD" x="162.0" y="-30.0" font-weight="700" font-size="27" fill="var(--accent-2)" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="162.0" dy="29.76px">Internal Growth</tspan>
+      </text>
+      <rect id="ITEM_2_HEAD_FRAME" x="162" y="-30" width="472" height="36" fill="none"/>
+      <text id="ITEM_2_BODY" x="162.0" y="10.0" font-size="18.5" fill="var(--primary-text)" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="162.0" dy="21.98px">Elliott learns responsibility</tspan>
+        <tspan x="162.0" dy="26.45px">and emotional maturity</tspan>
+      </text>
+      <rect id="ITEM_2_BODY_FRAME" x="162" y="10" width="468" height="60" fill="none"/>
+    </g>
+    <line x1="840" y1="540" x2="1100" y2="575" stroke="var(--accent-3)" stroke-width="18" stroke-linecap="round" opacity="0.18" filter="url(#svg86d10302-beam-glow)"/>
+    <line x1="840" y1="540" x2="1100" y2="575" stroke="var(--accent-3)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+    <g transform="translate(1100, 575)">
+      <path id="ITEM_3_BG" d="M 0 -60 L 610 -60 L 740 15 L 610 90 L 0 90 L 56 15 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-3)" stroke-width="3" filter="url(#svg86d10302-shadow)"/>
+      <rect id="ITEM_3_TEXT_BG" x="138" y="-42" width="520" height="114" rx="18" fill="var(--panel)" fill-opacity="0.9" stroke="var(--primary-text)" stroke-opacity="0.1" stroke-width="1.5"/>
+      <rect x="150" y="-32" width="496" height="94" rx="14" fill="url(#svg86d10302-universal-surface-sheen)" opacity="0.76"/>
+      <circle cx="82" cy="15" r="56" fill="url(#svg86d10302-universal-icon-aura)" opacity="0.82"/>
+      <circle id="ITEM_3_PAD" cx="82" cy="15" r="40" fill="var(--icon-pad-bg)" stroke="var(--accent-3)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_3_PAD_INNER" cx="82" cy="15" r="31.20" fill="var(--accent-3)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="82" cy="15" r="32" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_3_ICON" transform="translate(50, -17)" data-icon-size="64" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-4.571428571428571,-9.714285714285714) scale(2.2857142857142856)">
+          <path d="M13.0004 14C13.6281 13.1643 14 12.1256 14 11C14 8.23858 11.7614 6 9 6C6.23858 6 4 8.23858 4 11C4 13.419 5.71776 15.4367 8 15.9V17H7C5.89543 17 5 17.8954 5 19V20L4.5 21.5L5 23V28C5 29.1046 5.89543 30 7 30H21C22.1046 30 23 29.1046 23 28L24 23.5L23 19C23 17.8954 22.1046 17 21 17H20V16C22.7614 16 25 13.7614 25 11C25 8.23858 22.7614 6 20 6C17.2386 6 15 8.23858 15 11C15 12.1256 15.3719 13.1643 15.9996 14H13.0004ZM2 19.5C2 19.2239 2.22386 19 2.5 19C2.77614 19 3 19.2239 3 19.5V20L3.5 21.5L3 23V24.5C3 24.7761 2.77614 25 2.5 25C2.22386 25 2 24.7761 2 24.5V19.5ZM25.5528 18.2237C25.214 18.3931 25 18.7393 25 19.1181L24 23.5L25 27.882C25 28.2608 25.214 28.6071 25.5528 28.7764L28.5528 30.2764C29.2177 30.6089 30 30.1254 30 29.382V17.6181C30 16.8747 29.2177 16.3912 28.5528 16.7236L25.5528 18.2237Z" fill="#321B41"/>
+          <path d="M8 25C8 24.4477 8.44772 24 9 24H19C19.5523 24 20 24.4477 20 25V27C20 27.5523 19.5523 28 19 28H9C8.44772 28 8 27.5523 8 27V25Z" fill="#D3D3D3"/>
+          <path d="M12 26C12 26.5523 11.5523 27 11 27C10.4477 27 10 26.5523 10 26C10 25.4477 10.4477 25 11 25C11.5523 25 12 25.4477 12 26Z" fill="#CA0B4A"/>
+          <path d="M15 26C15 25.4477 15.4477 25 16 25H17C17.5523 25 18 25.4477 18 26V26C18 26.5523 17.5523 27 17 27H16C15.4477 27 15 26.5523 15 26V26Z" fill="#433B6B"/>
+          <path d="M10 11C10 11.5523 9.55228 12 9 12C8.44772 12 8 11.5523 8 11C8 10.4477 8.44772 10 9 10C9.55228 10 10 10.4477 10 11ZM25 19H23V28H25V19ZM5 20H3V23H5V20ZM20 12C20.5523 12 21 11.5523 21 11C21 10.4477 20.5523 10 20 10C19.4477 10 19 10.4477 19 11C19 11.5523 19.4477 12 20 12Z" fill="#9B9B9B"/>
+        </g>
+      </g>
+      <text id="ITEM_3_HEAD" x="162.0" y="-30.0" font-weight="700" font-size="27" fill="var(--accent-3)" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="162.0" dy="29.76px">Genre Expansion</tspan>
+      </text>
+      <rect id="ITEM_3_HEAD_FRAME" x="162" y="-30" width="472" height="36" fill="none"/>
+      <text id="ITEM_3_BODY" x="162.0" y="10.0" font-size="18.5" fill="var(--primary-text)" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="162.0" dy="21.98px">Expanded the emotional range</tspan>
+        <tspan x="162.0" dy="26.45px">of science fiction</tspan>
+      </text>
+      <rect id="ITEM_3_BODY_FRAME" x="162" y="10" width="468" height="60" fill="none"/>
+    </g>
+    <line x1="840" y1="540" x2="1100" y2="725" stroke="var(--accent-4)" stroke-width="18" stroke-linecap="round" opacity="0.18" filter="url(#svg86d10302-beam-glow)"/>
+    <line x1="840" y1="540" x2="1100" y2="725" stroke="var(--accent-4)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+    <g transform="translate(1100, 725)">
+      <path id="ITEM_4_BG" d="M 0 -60 L 610 -60 L 740 15 L 610 90 L 0 90 L 56 15 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-4)" stroke-width="3" filter="url(#svg86d10302-shadow)"/>
+      <rect id="ITEM_4_TEXT_BG" x="138" y="-42" width="520" height="114" rx="18" fill="var(--panel)" fill-opacity="0.9" stroke="var(--primary-text)" stroke-opacity="0.1" stroke-width="1.5"/>
+      <rect x="150" y="-32" width="496" height="94" rx="14" fill="url(#svg86d10302-universal-surface-sheen)" opacity="0.76"/>
+      <circle cx="82" cy="15" r="56" fill="url(#svg86d10302-universal-icon-aura)" opacity="0.82"/>
+      <circle id="ITEM_4_PAD" cx="82" cy="15" r="40" fill="var(--icon-pad-bg)" stroke="var(--accent-1)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_4_PAD_INNER" cx="82" cy="15" r="31.20" fill="var(--accent-1)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="82" cy="15" r="32" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_4_ICON" transform="translate(50, -17)" data-icon-size="64" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-5.428571428571425,-4.571428571428571) scale(2.2857142857142856)">
+          <path d="M25.87 17.9C25.17 16.82 25.17 15.49 25.87 14.42C26.36 13.67 26.65 12.77 26.65 11.8C26.65 9.70005 25.02 7.87005 22.92 7.26005C21.97 6.98005 21.27 6.23005 20.94 5.30005C20.3 3.50005 18.47 1.99005 16.35 2.00005C14.32 2.01005 12.64 3.51005 11.92 5.26005C11.56 6.13005 10.82 6.84005 9.9 7.02005C7.63 7.48005 6 9.58005 6 11.74C6 12.71 6.29 13.6 6.78 14.36C7.48 15.44 7.48 16.77 6.78 17.84C6.29 18.59 6 19.49 6 20.46C6 22.62 7.5 24.7201 9.67 25.1901C10.55 25.3801 11.3 26.04 11.62 26.88C12.31 28.7 14.06 30 16.13 30C18.19 30 19.95 28.7 20.64 26.88C20.97 26.01 21.73 25.35 22.64 25.15C24.96 24.65 26.65 22.67 26.65 20.51C26.64 19.55 26.36 18.65 25.87 17.9Z" fill="#F9C23C"/>
+          <path d="M21.8603 10.05C20.6379 7.24441 18.6122 5.41003 16.3201 5.41003C12.5866 5.41003 9.56006 10.2767 9.56006 16.28C9.56006 18.1786 9.86278 19.9636 10.3948 21.5168L18.4667 18.6608L21.8603 10.05Z" fill="#26EAFC"/>
+          <path d="M16.32 27.15C20.05 27.15 23.08 22.28 23.08 16.28C23.08 13.96 22.63 11.81 21.86 10.05L10.4 21.51C11.55 24.87 13.77 27.15 16.32 27.15Z" fill="#B4F6FC"/>
+        </g>
+      </g>
+      <text id="ITEM_4_HEAD" x="162.0" y="-30.0" font-weight="700" font-size="27" fill="var(--accent-1)" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="162.0" dy="29.76px">Symbolic Empathy</tspan>
+      </text>
+      <rect id="ITEM_4_HEAD_FRAME" x="162" y="-30" width="472" height="36" fill="none"/>
+      <text id="ITEM_4_BODY" x="162.0" y="10.0" font-size="18.5" fill="var(--primary-text)" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="162.0" dy="21.98px">The alien serves as a mirror</tspan>
+        <tspan x="162.0" dy="26.45px">for human problems</tspan>
+      </text>
+      <rect id="ITEM_4_BODY_FRAME" x="162" y="10" width="468" height="60" fill="none"/>
+    </g>
+    <line x1="840" y1="540" x2="1100" y2="875" stroke="var(--accent-5)" stroke-width="18" stroke-linecap="round" opacity="0.18" filter="url(#svg86d10302-beam-glow)"/>
+    <line x1="840" y1="540" x2="1100" y2="875" stroke="var(--accent-5)" stroke-width="4" stroke-linecap="round" opacity="0.72"/>
+    <g transform="translate(1100, 875)">
+      <path id="ITEM_5_BG" d="M 0 -60 L 610 -60 L 740 15 L 610 90 L 0 90 L 56 15 Z" fill="var(--panel)" fill-opacity="0.95" stroke="var(--accent-5)" stroke-width="3" filter="url(#svg86d10302-shadow)"/>
+      <rect id="ITEM_5_TEXT_BG" x="138" y="-42" width="520" height="114" rx="18" fill="var(--panel)" fill-opacity="0.9" stroke="var(--primary-text)" stroke-opacity="0.1" stroke-width="1.5"/>
+      <rect x="150" y="-32" width="496" height="94" rx="14" fill="url(#svg86d10302-universal-surface-sheen)" opacity="0.76"/>
+      <circle cx="82" cy="15" r="56" fill="url(#svg86d10302-universal-icon-aura)" opacity="0.82"/>
+      <circle id="ITEM_5_PAD" cx="82" cy="15" r="40" fill="var(--icon-pad-bg)" stroke="var(--accent-2)" opacity="1" fill-opacity="0.9" stroke-width="2" stroke-opacity="0.72" data-badge-layer="pad"/>
+      <circle id="ITEM_5_PAD_INNER" cx="82" cy="15" r="31.20" fill="var(--accent-2)" fill-opacity="0.12" stroke="none" data-badge-layer="tint"/>
+      <circle cx="82" cy="15" r="32" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4" display="none" data-suppressed-decoration="redundant-badge-ring"/>
+      <g id="ITEM_5_ICON" transform="translate(50, -17)" data-icon-size="64" stroke-linecap="round" stroke-linejoin="round" data-badge-treatment="clean">
+        <g transform="translate(-7.111111111111111,-5.925925925925924) scale(0.2962962962962963)" vector-effect="non-scaling-stroke" stroke-width="2.48" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <circle cx="128" cy="128" r="96" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+          <line x1="128" y1="224" x2="232" y2="224" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+          <circle cx="128" cy="80" r="16" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+          <circle cx="128" cy="176" r="16" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+          <circle cx="176" cy="128" r="16" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+          <circle cx="80" cy="128" r="16" fill="none" stroke="#f1f5f9" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <text id="ITEM_5_HEAD" x="162.0" y="-30.0" font-weight="700" font-size="27" fill="var(--accent-2)" data-bg-id="ITEM_5_TEXT_BG" fill-opacity="1.0" style="font-size: 31px; font-family: 'Segoe UI Variable Display', 'Aptos Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1; letter-spacing:-0.4px;" data-final-font-size="31">
+        <tspan x="162.0" dy="29.76px">Historical Preservation</tspan>
+      </text>
+      <rect id="ITEM_5_HEAD_FRAME" x="162" y="-30" width="472" height="36" fill="none"/>
+      <text id="ITEM_5_BODY" x="162.0" y="10.0" font-size="18.5" fill="var(--primary-text)" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 23px; font-family: 'Segoe UI Variable Text', 'Aptos', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-kerning: normal; font-feature-settings: &quot;kern&quot; 1, &quot;liga&quot; 1;" data-final-font-size="23">
+        <tspan x="162.0" dy="21.98px">Recognized for cultural</tspan>
+        <tspan x="162.0" dy="26.45px">and aesthetic significance</tspan>
+      </text>
+      <rect id="ITEM_5_BODY_FRAME" x="162" y="10" width="468" height="60" fill="none"/>
+    </g>
+  </g>
+  <text id="SOURCE_NOTE" x="134.0" y="1058.0" fill="var(--muted-text)" opacity="1" style="font-family: var(--font-family); font-size: 20px;">Source: &lt;i&gt;E.T.&lt;/i&gt; Still Perfectly Captures the Longing of Childhood, 40 Years Later</text>
+</svg>

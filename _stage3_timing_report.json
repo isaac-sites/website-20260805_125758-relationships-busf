@@ -1,0 +1,4112 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 945.0152,
+  "average_page_seconds": 4.4787,
+  "phase_totals_seconds": {
+    "internal_links": 370.0924,
+    "monetization": 211.5291,
+    "content_assembly": 147.1861,
+    "media_svg": 124.6559,
+    "youtube": 68.6426,
+    "quality_write": 11.1116,
+    "content_cleanup_final": 6.2991,
+    "preparation": 5.3783,
+    "content_cleanup_initial": 0.1197
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.1324,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.6884,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.8264,
+        "youtube": 0.0128,
+        "content_assembly": 0.6004,
+        "monetization": 9.8946,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.514,
+      "phases": {
+        "preparation": 0.0215,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5652,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.9117,
+        "youtube": 0.012,
+        "content_assembly": 0.6049,
+        "monetization": 9.3242,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 10.5252,
+      "phases": {
+        "preparation": 0.0339,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8277,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.6216,
+        "youtube": 4.4115,
+        "content_assembly": 0.8161,
+        "monetization": 2.7422,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6375,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6611,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 1.1472,
+        "youtube": 4.5871,
+        "content_assembly": 0.8893,
+        "monetization": 1.2438,
+        "quality_write": 0.0544
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.985,
+      "phases": {
+        "preparation": 0.0377,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7994,
+        "content_cleanup_final": 0.0343,
+        "media_svg": 0.1168,
+        "youtube": 0.0139,
+        "content_assembly": 0.7274,
+        "monetization": 6.1986,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.4392,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7056,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.9271,
+        "youtube": 1.5743,
+        "content_assembly": 0.7765,
+        "monetization": 3.3463,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.226,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7807,
+        "content_cleanup_final": 0.0392,
+        "media_svg": 0.9861,
+        "youtube": 0.0099,
+        "content_assembly": 0.701,
+        "monetization": 4.6394,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1028,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8683,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.4227,
+        "youtube": 0.011,
+        "content_assembly": 0.7503,
+        "monetization": 4.9407,
+        "quality_write": 0.0527
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8866,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.9722,
+        "content_cleanup_final": 0.0421,
+        "media_svg": 0.4595,
+        "youtube": 0.0109,
+        "content_assembly": 0.6687,
+        "monetization": 4.6368,
+        "quality_write": 0.0671
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7523,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6795,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.4199,
+        "youtube": 0.0103,
+        "content_assembly": 0.7014,
+        "monetization": 4.845,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_2005_spielberg_film_f8b80e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.4438,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.828,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.4256,
+        "youtube": 0.0099,
+        "content_assembly": 0.737,
+        "monetization": 4.3413,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9311,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6467,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 1.017,
+        "youtube": 1.5189,
+        "content_assembly": 0.6092,
+        "monetization": 2.0426,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_scifi_magazines_ufo_132444",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8059,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.7062,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.9589,
+        "youtube": 1.4615,
+        "content_assembly": 0.7616,
+        "monetization": 1.8153,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8015,
+      "phases": {
+        "preparation": 0.0283,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7807,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4273,
+        "youtube": 1.6851,
+        "content_assembly": 0.6338,
+        "monetization": 2.1617,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_ufo_evidence_limits_0fab89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7691,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7621,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.4478,
+        "youtube": 1.5916,
+        "content_assembly": 0.6656,
+        "monetization": 2.1876,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6303,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.883,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.4212,
+        "youtube": 1.8294,
+        "content_assembly": 0.6756,
+        "monetization": 1.7229,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_ai_machine_min_152e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6213,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8081,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.9817,
+        "youtube": 0.0096,
+        "content_assembly": 0.6751,
+        "monetization": 3.0385,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5753,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8127,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.8567,
+        "youtube": 0.0095,
+        "content_assembly": 0.6444,
+        "monetization": 3.1335,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_cold_war_ufo_films_71460e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3196,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8507,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.9893,
+        "youtube": 1.5595,
+        "content_assembly": 0.7281,
+        "monetization": 1.0704,
+        "quality_write": 0.0714
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2401,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8994,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.1736,
+        "youtube": 2.1699,
+        "content_assembly": 0.8311,
+        "monetization": 1.061,
+        "quality_write": 0.052
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Relationships_betwee_d7372c",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 9.6375,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6611,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 1.1472,
+        "youtube": 4.5871,
+        "content_assembly": 0.8893,
+        "monetization": 1.2438,
+        "quality_write": 0.0544
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.2401,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8994,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.1736,
+        "youtube": 2.1699,
+        "content_assembly": 0.8311,
+        "monetization": 1.061,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 10.5252,
+      "phases": {
+        "preparation": 0.0339,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8277,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.6216,
+        "youtube": 4.4115,
+        "content_assembly": 0.8161,
+        "monetization": 2.7422,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8453,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7048,
+        "content_cleanup_final": 0.0468,
+        "media_svg": 0.1158,
+        "youtube": 0.0106,
+        "content_assembly": 0.7528,
+        "monetization": 0.1264,
+        "quality_write": 0.0584
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1025,
+      "phases": {
+        "preparation": 0.024,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5892,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.4454,
+        "youtube": 0.0106,
+        "content_assembly": 0.701,
+        "monetization": 1.236,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.985,
+      "phases": {
+        "preparation": 0.0377,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7994,
+        "content_cleanup_final": 0.0343,
+        "media_svg": 0.1168,
+        "youtube": 0.0139,
+        "content_assembly": 0.7274,
+        "monetization": 6.1986,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7405,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6152,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.1166,
+        "youtube": 0.0095,
+        "content_assembly": 0.7218,
+        "monetization": 1.1627,
+        "quality_write": 0.059
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1717,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6822,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.3079,
+        "youtube": 0.0181,
+        "content_assembly": 0.9005,
+        "monetization": 0.1277,
+        "quality_write": 0.0736
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0495,
+      "phases": {
+        "preparation": 0.1099,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7748,
+        "content_cleanup_final": 0.0488,
+        "media_svg": 0.201,
+        "youtube": 0.0102,
+        "content_assembly": 0.8187,
+        "monetization": 1.0297,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3532,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6887,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.1778,
+        "youtube": 0.012,
+        "content_assembly": 0.7054,
+        "monetization": 0.6597,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6617,
+      "phases": {
+        "preparation": 0.0443,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8925,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.1199,
+        "youtube": 2.2186,
+        "content_assembly": 0.7608,
+        "monetization": 0.541,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1415,
+      "phases": {
+        "preparation": 0.0397,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6572,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.1778,
+        "youtube": 0.0093,
+        "content_assembly": 0.7663,
+        "monetization": 0.4108,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5304,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7448,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.9066,
+        "youtube": 0.0251,
+        "content_assembly": 0.8418,
+        "monetization": 1.8893,
+        "quality_write": 0.0683
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0347,
+      "phases": {
+        "preparation": 0.0327,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6989,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.2574,
+        "youtube": 1.5735,
+        "content_assembly": 0.6974,
+        "monetization": 0.6969,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.079,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7648,
+        "content_cleanup_final": 0.0394,
+        "media_svg": 0.1209,
+        "youtube": 0.0153,
+        "content_assembly": 0.7084,
+        "monetization": 2.33,
+        "quality_write": 0.0721
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8684,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7163,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.1254,
+        "youtube": 0.0097,
+        "content_assembly": 0.7946,
+        "monetization": 2.1059,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0769,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6497,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.9636,
+        "youtube": 1.5566,
+        "content_assembly": 0.6761,
+        "monetization": 0.13,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9423,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7107,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.4598,
+        "youtube": 0.0084,
+        "content_assembly": 0.7498,
+        "monetization": 1.8973,
+        "quality_write": 0.0709
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4577,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6973,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.4687,
+        "youtube": 0.012,
+        "content_assembly": 0.7812,
+        "monetization": 1.3688,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8656,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.7301,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.6291,
+        "youtube": 0.0091,
+        "content_assembly": 0.7145,
+        "monetization": 0.6763,
+        "quality_write": 0.0571
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2093,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7324,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.4322,
+        "youtube": 1.4837,
+        "content_assembly": 0.7995,
+        "monetization": 0.6441,
+        "quality_write": 0.0633
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8082,
+      "phases": {
+        "preparation": 0.0479,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6591,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.1621,
+        "youtube": 0.0094,
+        "content_assembly": 0.7364,
+        "monetization": 0.1177,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5472,
+      "phases": {
+        "preparation": 0.0329,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7759,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.1163,
+        "youtube": 1.6034,
+        "content_assembly": 0.7981,
+        "monetization": 0.1304,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4079,
+      "phases": {
+        "preparation": 0.0268,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7971,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.3227,
+        "youtube": 1.5911,
+        "content_assembly": 0.7912,
+        "monetization": 0.783,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7384,
+      "phases": {
+        "preparation": 0.0392,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8454,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.3206,
+        "youtube": 1.4944,
+        "content_assembly": 0.804,
+        "monetization": 0.149,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.903,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7564,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.1576,
+        "youtube": 0.0103,
+        "content_assembly": 0.745,
+        "monetization": 0.1214,
+        "quality_write": 0.0582
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6368,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7553,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.2682,
+        "youtube": 0.0108,
+        "content_assembly": 0.8305,
+        "monetization": 0.6567,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9112,
+      "phases": {
+        "preparation": 0.04,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7241,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.1101,
+        "youtube": 0.0145,
+        "content_assembly": 0.7992,
+        "monetization": 0.1382,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4435,
+      "phases": {
+        "preparation": 0.032,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7698,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.1836,
+        "youtube": 0.0135,
+        "content_assembly": 0.7843,
+        "monetization": 0.576,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9345,
+      "phases": {
+        "preparation": 0.034,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.7965,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.1323,
+        "youtube": 0.0124,
+        "content_assembly": 0.7658,
+        "monetization": 2.1111,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7735,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7786,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.4015,
+        "youtube": 0.013,
+        "content_assembly": 0.7267,
+        "monetization": 1.7403,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_cold_war_ufo_tv_d7e77c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2706,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5412,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.8935,
+        "youtube": 0.0188,
+        "content_assembly": 0.7178,
+        "monetization": 1.9945,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_seti_signals_ce924c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.1626,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7369,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.4339,
+        "youtube": 0.0106,
+        "content_assembly": 0.6863,
+        "monetization": 3.1993,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0318,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8001,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.3815,
+        "youtube": 0.011,
+        "content_assembly": 0.6372,
+        "monetization": 3.0987,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_nasa_uap_study_25636b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9204,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5317,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.3854,
+        "youtube": 1.4166,
+        "content_assembly": 0.7096,
+        "monetization": 1.7798,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_mufon_network_7b94f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5382,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7556,
+        "content_cleanup_final": 0.0445,
+        "media_svg": 0.9266,
+        "youtube": 0.0108,
+        "content_assembly": 0.647,
+        "monetization": 0.0772,
+        "quality_write": 0.058
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_et_friendship_755fa7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7695,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.842,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.4163,
+        "youtube": 0.0239,
+        "content_assembly": 0.7196,
+        "monetization": 2.649,
+        "quality_write": 0.0619
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_space_age_design_4e9188",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4296,
+      "phases": {
+        "preparation": 0.1541,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6773,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.9129,
+        "youtube": 0.009,
+        "content_assembly": 0.653,
+        "monetization": 0.9621,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_science_fiction_ufo_e8f606",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2895,
+      "phases": {
+        "preparation": 0.0296,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6886,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.9625,
+        "youtube": 1.6902,
+        "content_assembly": 0.7185,
+        "monetization": 0.1126,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_alien_telepathy_456d45",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9795,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6506,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.4267,
+        "youtube": 0.0133,
+        "content_assembly": 0.677,
+        "monetization": 1.1202,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9075,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8622,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.4024,
+        "youtube": 0.0096,
+        "content_assembly": 0.7012,
+        "monetization": 0.8374,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_tv_ufo_imagery_5ff01d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.683,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7583,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 0.4351,
+        "youtube": 1.5551,
+        "content_assembly": 0.6855,
+        "monetization": 0.146,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_roswell_culture_8eb3e3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4772,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7237,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.9198,
+        "youtube": 0.0106,
+        "content_assembly": 0.6861,
+        "monetization": 0.0463,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_closure_c42198",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7949,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7994,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.416,
+        "youtube": 1.5661,
+        "content_assembly": 0.6894,
+        "monetization": 1.2161,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_grey_alien_symbol_af3892",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3349,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6198,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.8612,
+        "youtube": 0.0112,
+        "content_assembly": 0.6386,
+        "monetization": 0.1134,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_conventions_e91087",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2603,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.83,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.8848,
+        "youtube": 0.01,
+        "content_assembly": 0.6656,
+        "monetization": 1.7698,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_modern_uap_televisio_b07693",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5086,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7771,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.878,
+        "youtube": 0.0112,
+        "content_assembly": 0.6337,
+        "monetization": 0.1199,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_ufo_emoji_culture_98f008",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5739,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.699,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.9885,
+        "youtube": 0.0118,
+        "content_assembly": 0.7081,
+        "monetization": 2.0664,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_project_blue_book_se_1a221a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.65,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7919,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.8393,
+        "youtube": 0.0112,
+        "content_assembly": 0.6184,
+        "monetization": 0.2868,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_project_ufo_tv_drama_84c93d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3931,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7562,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.988,
+        "youtube": 0.0125,
+        "content_assembly": 0.6607,
+        "monetization": 0.889,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_x_files_storytelling_ee23a8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0633,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7721,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.893,
+        "youtube": 1.5225,
+        "content_assembly": 0.6413,
+        "monetization": 0.1315,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.226,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7807,
+        "content_cleanup_final": 0.0392,
+        "media_svg": 0.9861,
+        "youtube": 0.0099,
+        "content_assembly": 0.701,
+        "monetization": 4.6394,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6674,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6458,
+        "content_cleanup_final": 0.035,
+        "media_svg": 0.8896,
+        "youtube": 0.0099,
+        "content_assembly": 0.6247,
+        "monetization": 1.3958,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_flying_saucer_design_f989fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2998,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6112,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.8886,
+        "youtube": 0.0114,
+        "content_assembly": 0.5897,
+        "monetization": 1.1183,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_historical_sky_ufo_i_85161a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8788,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.609,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.9468,
+        "youtube": 0.0113,
+        "content_assembly": 0.6959,
+        "monetization": 0.5197,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_film_lighting_ef_a2e9d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9449,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8351,
+        "content_cleanup_final": 0.0353,
+        "media_svg": 0.9288,
+        "youtube": 0.0106,
+        "content_assembly": 0.7416,
+        "monetization": 1.3279,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.9311,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6467,
+        "content_cleanup_final": 0.0278,
+        "media_svg": 1.017,
+        "youtube": 1.5189,
+        "content_assembly": 0.6092,
+        "monetization": 2.0426,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.63,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8171,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.4421,
+        "youtube": 1.426,
+        "content_assembly": 0.7122,
+        "monetization": 0.1249,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_venus_ufo_sightings_b449b9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5899,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6888,
+        "content_cleanup_final": 0.0425,
+        "media_svg": 1.0162,
+        "youtube": 0.0148,
+        "content_assembly": 0.7026,
+        "monetization": 0.0578,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_1950s_ufo_films_50f9f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1714,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8355,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.4369,
+        "youtube": 0.0106,
+        "content_assembly": 0.7225,
+        "monetization": 0.0639,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2186,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8115,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.4409,
+        "youtube": 0.0131,
+        "content_assembly": 0.7149,
+        "monetization": 0.1428,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_cold_war_ufo_films_71460e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3196,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8507,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.9893,
+        "youtube": 1.5595,
+        "content_assembly": 0.7281,
+        "monetization": 1.0704,
+        "quality_write": 0.0714
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_ufo_evidence_limits_0fab89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7691,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7621,
+        "content_cleanup_final": 0.0333,
+        "media_svg": 0.4478,
+        "youtube": 1.5916,
+        "content_assembly": 0.6656,
+        "monetization": 2.1876,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_aaro_alien_technolog_aea42f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.423,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8131,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.8874,
+        "youtube": 0.0111,
+        "content_assembly": 0.635,
+        "monetization": 1.9539,
+        "quality_write": 0.0727
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_uap_balloon_explanat_bf0369",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2846,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7025,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.8777,
+        "youtube": 0.0127,
+        "content_assembly": 0.6493,
+        "monetization": 1.9237,
+        "quality_write": 0.0635
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 13.1324,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.6884,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.8264,
+        "youtube": 0.0128,
+        "content_assembly": 0.6004,
+        "monetization": 9.8946,
+        "quality_write": 0.0569
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_ufo_perception_error_3da088",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1437,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.5882,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.9184,
+        "youtube": 0.0121,
+        "content_assembly": 0.6014,
+        "monetization": 1.9226,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.514,
+      "phases": {
+        "preparation": 0.0215,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5652,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.9117,
+        "youtube": 0.012,
+        "content_assembly": 0.6049,
+        "monetization": 9.3242,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0466,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.584,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.4047,
+        "youtube": 0.0095,
+        "content_assembly": 0.6666,
+        "monetization": 1.2975,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_day_earth_warning_aae0cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5391,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7087,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.401,
+        "youtube": 1.5311,
+        "content_assembly": 0.6736,
+        "monetization": 0.125,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0616,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7581,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.412,
+        "youtube": 0.0169,
+        "content_assembly": 0.636,
+        "monetization": 0.1409,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_warp_drive_limits_72bc25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3754,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.6515,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.4553,
+        "youtube": 0.0097,
+        "content_assembly": 0.7186,
+        "monetization": 2.4235,
+        "quality_write": 0.0668
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1078,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6563,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4174,
+        "youtube": 0.0124,
+        "content_assembly": 0.6916,
+        "monetization": 1.2331,
+        "quality_write": 0.0457
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0258,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.719,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.4105,
+        "youtube": 0.0128,
+        "content_assembly": 0.6633,
+        "monetization": 0.1376,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6324,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.7133,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.4466,
+        "youtube": 1.5254,
+        "content_assembly": 0.6903,
+        "monetization": 0.1554,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2486,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7474,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.4033,
+        "youtube": 0.0106,
+        "content_assembly": 0.717,
+        "monetization": 0.2722,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_case_files_ee1010",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3991,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7506,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.4442,
+        "youtube": 0.0119,
+        "content_assembly": 0.6992,
+        "monetization": 1.3835,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_michigan_1966_sighti_7280ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0555,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6715,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4234,
+        "youtube": 0.01,
+        "content_assembly": 0.6457,
+        "monetization": 2.2031,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5979,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7453,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.3862,
+        "youtube": 0.0114,
+        "content_assembly": 0.5722,
+        "monetization": 0.7884,
+        "quality_write": 0.0523
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.7523,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6795,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.4199,
+        "youtube": 0.0103,
+        "content_assembly": 0.7014,
+        "monetization": 4.845,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_coverup_clai_4f5888",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2231,
+      "phases": {
+        "preparation": 0.0258,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6007,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.4614,
+        "youtube": 0.0104,
+        "content_assembly": 0.6542,
+        "monetization": 1.4025,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_alien_bodies_fe175f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9874,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6076,
+        "content_cleanup_final": 0.0355,
+        "media_svg": 0.4448,
+        "youtube": 0.0104,
+        "content_assembly": 0.6825,
+        "monetization": 3.146,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_debris_debat_6da634",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.336,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8398,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.4102,
+        "youtube": 0.0102,
+        "content_assembly": 0.644,
+        "monetization": 1.3186,
+        "quality_write": 0.0585
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_scifi_influe_1eee6f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9142,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6435,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 0.4555,
+        "youtube": 0.0165,
+        "content_assembly": 0.7367,
+        "monetization": 0.9464,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_tourism_memo_a75dc3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3982,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7788,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.4311,
+        "youtube": 0.0166,
+        "content_assembly": 0.7328,
+        "monetization": 0.338,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_pentagon_uap_review_902aab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1691,
+      "phases": {
+        "preparation": 0.0309,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7484,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.4496,
+        "youtube": 0.0117,
+        "content_assembly": 0.7194,
+        "monetization": 0.1271,
+        "quality_write": 0.0615
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_ariel_school_witness_14997c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0986,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7725,
+        "content_cleanup_final": 0.0156,
+        "media_svg": 0.4547,
+        "youtube": 0.0103,
+        "content_assembly": 0.6486,
+        "monetization": 0.1275,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_netflix_encounters_s_a02e2e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1368,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7634,
+        "content_cleanup_final": 0.038,
+        "media_svg": 0.4489,
+        "youtube": 0.0146,
+        "content_assembly": 0.6882,
+        "monetization": 0.1171,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_phenomenon_disclosur_b7d45b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2102,
+      "phases": {
+        "preparation": 0.0271,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7794,
+        "content_cleanup_final": 0.0379,
+        "media_svg": 0.4487,
+        "youtube": 0.0108,
+        "content_assembly": 0.72,
+        "monetization": 0.1304,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_documentary_edit_65981b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1826,
+      "phases": {
+        "preparation": 0.023,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7822,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.4256,
+        "youtube": 0.015,
+        "content_assembly": 0.7181,
+        "monetization": 0.1413,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_uap_public_atten_30db5d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7826,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7016,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.4494,
+        "youtube": 0.0113,
+        "content_assembly": 0.738,
+        "monetization": 1.7921,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_evidence_emotion_65ba23",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1157,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8149,
+        "content_cleanup_final": 0.0319,
+        "media_svg": 0.4526,
+        "youtube": 0.0214,
+        "content_assembly": 0.7227,
+        "monetization": 1.9998,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_flying_saucer_symbol_23f5ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0609,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7624,
+        "content_cleanup_final": 0.0364,
+        "media_svg": 0.8172,
+        "youtube": 0.0107,
+        "content_assembly": 0.6687,
+        "monetization": 0.6765,
+        "quality_write": 0.0561
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_ufo_story_exchange_2a0ead",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1017,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7005,
+        "content_cleanup_final": 0.0316,
+        "media_svg": 0.417,
+        "youtube": 0.0124,
+        "content_assembly": 0.6978,
+        "monetization": 0.1501,
+        "quality_write": 0.0642
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_roswell_cultural_sym_cffd07",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6851,
+      "phases": {
+        "preparation": 0.0279,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.707,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.9739,
+        "youtube": 0.0093,
+        "content_assembly": 0.7536,
+        "monetization": 0.1482,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_fifth_kind_contact_5868fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4112,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8929,
+        "content_cleanup_final": 0.0565,
+        "media_svg": 0.9629,
+        "youtube": 1.5733,
+        "content_assembly": 0.7352,
+        "monetization": 0.1198,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_second_kind_traces_8975d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5839,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6985,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.9488,
+        "youtube": 0.0108,
+        "content_assembly": 0.7048,
+        "monetization": 0.1299,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_flying_saucer_toys_185774",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.445,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7843,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.4567,
+        "youtube": 1.542,
+        "content_assembly": 0.6728,
+        "monetization": 0.8949,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_modern_alien_craft_d4df0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4505,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8241,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.402,
+        "youtube": 0.0103,
+        "content_assembly": 0.6726,
+        "monetization": 0.4431,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_cufos_legacy_c13715",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3773,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8113,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.4318,
+        "youtube": 0.0183,
+        "content_assembly": 0.6977,
+        "monetization": 0.3178,
+        "quality_write": 0.0575
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_communication_f1ed3b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.122,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7227,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.4287,
+        "youtube": 0.0193,
+        "content_assembly": 0.7205,
+        "monetization": 0.1252,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_alien_nuclear_fears_348b09",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6414,
+      "phases": {
+        "preparation": 0.0352,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.7976,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.9894,
+        "youtube": 0.0102,
+        "content_assembly": 0.6222,
+        "monetization": 0.1149,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_meti_message_debate_5ec9ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2154,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8791,
+        "content_cleanup_final": 0.0419,
+        "media_svg": 0.454,
+        "youtube": 0.0101,
+        "content_assembly": 0.6805,
+        "monetization": 1.0715,
+        "quality_write": 0.0596
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_secret_technology_tr_587e6d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0426,
+      "phases": {
+        "preparation": 0.0283,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7567,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.4134,
+        "youtube": 0.0084,
+        "content_assembly": 0.6417,
+        "monetization": 0.125,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_ai_alien_intelligenc_7b3725",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2392,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6799,
+        "content_cleanup_final": 0.0389,
+        "media_svg": 0.4432,
+        "youtube": 0.0096,
+        "content_assembly": 0.7002,
+        "monetization": 2.3028,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_modern_contact_films_e3f844",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0051,
+      "phases": {
+        "preparation": 0.0332,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7522,
+        "content_cleanup_final": 0.0301,
+        "media_svg": 0.4003,
+        "youtube": 0.0089,
+        "content_assembly": 0.6556,
+        "monetization": 2.0671,
+        "quality_write": 0.0572
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_uap_modern_debates_dba413_uap_disclosure_movem_7f4d97",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.114,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7529,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.4293,
+        "youtube": 0.0124,
+        "content_assembly": 0.6507,
+        "monetization": 1.1586,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_symbols_imagery_fb82a9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2135,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8056,
+        "content_cleanup_final": 0.0439,
+        "media_svg": 0.9131,
+        "youtube": 0.0163,
+        "content_assembly": 0.6889,
+        "monetization": 1.6769,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_scifi_magazines_ufo_132444",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8059,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.7062,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.9589,
+        "youtube": 1.4615,
+        "content_assembly": 0.7616,
+        "monetization": 1.8153,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_benevolent_alien_civ_3202dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0672,
+      "phases": {
+        "preparation": 0.0337,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6992,
+        "content_cleanup_final": 0.0305,
+        "media_svg": 0.8084,
+        "youtube": 1.5827,
+        "content_assembly": 0.6784,
+        "monetization": 0.17,
+        "quality_write": 0.0638
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_star_trek_species_po_9fbbc5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7763,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8491,
+        "content_cleanup_final": 0.0546,
+        "media_svg": 0.9967,
+        "youtube": 0.0106,
+        "content_assembly": 0.6847,
+        "monetization": 0.1099,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_gethen_alien_culture_218658",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5204,
+      "phases": {
+        "preparation": 0.0316,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.8316,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.9686,
+        "youtube": 0.0103,
+        "content_assembly": 0.6929,
+        "monetization": 0.8994,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_unknowable_alien_int_217229",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5887,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7474,
+        "content_cleanup_final": 0.0229,
+        "media_svg": 0.8651,
+        "youtube": 0.0242,
+        "content_assembly": 0.7109,
+        "monetization": 0.1562,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4778,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6282,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.9773,
+        "youtube": 0.0094,
+        "content_assembly": 0.6312,
+        "monetization": 0.1358,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_civilizations_c427e6_xenology_alien_socie_b74545",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.893,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8047,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 0.5192,
+        "youtube": 0.0096,
+        "content_assembly": 0.6537,
+        "monetization": 0.8024,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_contact_message_deco_762792",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5425,
+      "phases": {
+        "preparation": 0.0248,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8031,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.9516,
+        "youtube": 0.0112,
+        "content_assembly": 0.6497,
+        "monetization": 2.0334,
+        "quality_write": 0.0426
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_mathematics_alien_la_503a89",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1969,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7546,
+        "content_cleanup_final": 0.0475,
+        "media_svg": 0.4112,
+        "youtube": 0.0096,
+        "content_assembly": 0.6484,
+        "monetization": 1.2537,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.398,
+      "phases": {
+        "preparation": 0.0292,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.6651,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.8821,
+        "youtube": 0.0108,
+        "content_assembly": 0.5975,
+        "monetization": 0.1404,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_lubbock_lights_case_d809fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.631,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7823,
+        "content_cleanup_final": 0.0323,
+        "media_svg": 0.9654,
+        "youtube": 0.0226,
+        "content_assembly": 0.6484,
+        "monetization": 0.1126,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_solaris_alien_ocean_e9aa0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6546,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8469,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.9642,
+        "youtube": 0.0098,
+        "content_assembly": 0.6165,
+        "monetization": 0.1228,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5648,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8922,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.4097,
+        "youtube": 0.0163,
+        "content_assembly": 0.755,
+        "monetization": 2.3894,
+        "quality_write": 0.0543
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_cooperation_cc72d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6217,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7572,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.8947,
+        "youtube": 0.0096,
+        "content_assembly": 0.6977,
+        "monetization": 0.1365,
+        "quality_write": 0.0726
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_secrecy_trust_5c7b18",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.599,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.638,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.457,
+        "youtube": 1.5181,
+        "content_assembly": 0.7397,
+        "monetization": 0.1448,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_ai_alien_encounters_00943d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8861,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8987,
+        "content_cleanup_final": 0.0431,
+        "media_svg": 0.9435,
+        "youtube": 0.0116,
+        "content_assembly": 0.7315,
+        "monetization": 1.1734,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_technology_imb_2ada8d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2883,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8336,
+        "content_cleanup_final": 0.0306,
+        "media_svg": 0.4081,
+        "youtube": 0.013,
+        "content_assembly": 0.8089,
+        "monetization": 0.1168,
+        "quality_write": 0.0587
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_human_alien_reaction_7ba2fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1856,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7241,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.4554,
+        "youtube": 0.0102,
+        "content_assembly": 0.7757,
+        "monetization": 0.1181,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_independence_day_inv_5b1c0f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2815,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.9384,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.4252,
+        "youtube": 0.0131,
+        "content_assembly": 0.6658,
+        "monetization": 0.1259,
+        "quality_write": 0.0584
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1824,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8382,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.4077,
+        "youtube": 0.0106,
+        "content_assembly": 0.6988,
+        "monetization": 0.1269,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_explanations_a5b806",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1087,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7056,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.439,
+        "youtube": 0.0121,
+        "content_assembly": 0.737,
+        "monetization": 0.1186,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_shape_debate_239c2c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3915,
+      "phases": {
+        "preparation": 0.0349,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.9013,
+        "content_cleanup_final": 0.0327,
+        "media_svg": 0.4808,
+        "youtube": 0.0188,
+        "content_assembly": 0.7446,
+        "monetization": 0.1307,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_saucer_scifi_impact_11657b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1636,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8648,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.4284,
+        "youtube": 1.6091,
+        "content_assembly": 0.599,
+        "monetization": 0.5734,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_alien_weapon_failure_2a7f06",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3262,
+      "phases": {
+        "preparation": 0.0361,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.8204,
+        "content_cleanup_final": 0.0367,
+        "media_svg": 1.0077,
+        "youtube": 0.0082,
+        "content_assembly": 0.6699,
+        "monetization": 1.7065,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_area_51_technology_s_06ba3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1358,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7836,
+        "content_cleanup_final": 0.0308,
+        "media_svg": 0.4268,
+        "youtube": 0.0254,
+        "content_assembly": 0.6515,
+        "monetization": 0.1476,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_day_earth_stood_stil_5b06df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4941,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8322,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.4237,
+        "youtube": 0.0176,
+        "content_assembly": 0.6843,
+        "monetization": 1.4302,
+        "quality_write": 0.0553
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_war_worlds_weapon_ad_04828a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0684,
+      "phases": {
+        "preparation": 0.0375,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.9117,
+        "content_cleanup_final": 0.0416,
+        "media_svg": 0.4132,
+        "youtube": 0.0107,
+        "content_assembly": 0.6741,
+        "monetization": 0.9261,
+        "quality_write": 0.0526
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_stargate_technology_2b8f09",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3809,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6165,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.9262,
+        "youtube": 0.0172,
+        "content_assembly": 0.62,
+        "monetization": 0.1159,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_ufo_crash_retrieval_b3e5ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4261,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6056,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.9559,
+        "youtube": 0.0088,
+        "content_assembly": 0.6343,
+        "monetization": 0.1102,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8866,
+      "phases": {
+        "preparation": 0.0288,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.9722,
+        "content_cleanup_final": 0.0421,
+        "media_svg": 0.4595,
+        "youtube": 0.0109,
+        "content_assembly": 0.6687,
+        "monetization": 4.6368,
+        "quality_write": 0.0671
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_fan_communities_02d052_online_ufo_communiti_c9607d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4103,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7286,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.8609,
+        "youtube": 0.0155,
+        "content_assembly": 0.6602,
+        "monetization": 0.0487,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_human_vulnerability_dc0c8c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3866,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7426,
+        "content_cleanup_final": 0.0291,
+        "media_svg": 0.4284,
+        "youtube": 0.0193,
+        "content_assembly": 0.6841,
+        "monetization": 2.4034,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2304,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.5539,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.8638,
+        "youtube": 0.0096,
+        "content_assembly": 0.6041,
+        "monetization": 0.1135,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_2005_spielberg_film_f8b80e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.4438,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.828,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.4256,
+        "youtube": 0.0099,
+        "content_assembly": 0.737,
+        "monetization": 4.3413,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_arrival_heptapods_la_315bfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5533,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6803,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.9589,
+        "youtube": 0.0104,
+        "content_assembly": 0.6576,
+        "monetization": 0.1363,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_contact_storie_393745_close_encounters_sig_d40fcf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3929,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6356,
+        "content_cleanup_final": 0.0365,
+        "media_svg": 0.4411,
+        "youtube": 1.6266,
+        "content_assembly": 0.6878,
+        "monetization": 0.8847,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_cgi_alien_design_e07_62f2d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.529,
+      "phases": {
+        "preparation": 0.0328,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.861,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.9429,
+        "youtube": 0.0088,
+        "content_assembly": 0.674,
+        "monetization": 0.9287,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6367,
+      "phases": {
+        "preparation": 0.0324,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7191,
+        "content_cleanup_final": 0.0322,
+        "media_svg": 0.9501,
+        "youtube": 0.0134,
+        "content_assembly": 0.7107,
+        "monetization": 0.1262,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_star_wars_alien_soci_d9b335",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4009,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6766,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 1.0034,
+        "youtube": 0.0134,
+        "content_assembly": 0.6715,
+        "monetization": 0.9379,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_war_of_worlds_martia_a1ab20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5655,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8424,
+        "content_cleanup_final": 0.047,
+        "media_svg": 0.9439,
+        "youtube": 0.0094,
+        "content_assembly": 0.6791,
+        "monetization": 0.9768,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_xenomorph_design_evo_98c0d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4625,
+      "phases": {
+        "preparation": 0.0319,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6543,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.946,
+        "youtube": 0.0107,
+        "content_assembly": 0.6341,
+        "monetization": 0.1162,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4966,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7544,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.9275,
+        "youtube": 0.0098,
+        "content_assembly": 0.6116,
+        "monetization": 0.1117,
+        "quality_write": 0.0563
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_ai_machine_companion_253178",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4408,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.78,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.4181,
+        "youtube": 0.0097,
+        "content_assembly": 0.705,
+        "monetization": 2.41,
+        "quality_write": 0.0512
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_clarke_satellite_pre_3ea648",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1512,
+      "phases": {
+        "preparation": 0.0343,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8236,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.4013,
+        "youtube": 0.0099,
+        "content_assembly": 0.6756,
+        "monetization": 1.133,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8623,
+      "phases": {
+        "preparation": 0.0281,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8239,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.436,
+        "youtube": 0.0137,
+        "content_assembly": 0.677,
+        "monetization": 0.8102,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_communicat_82460f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1121,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6347,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.4244,
+        "youtube": 0.0153,
+        "content_assembly": 0.6901,
+        "monetization": 2.2683,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.5753,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8127,
+        "content_cleanup_final": 0.0408,
+        "media_svg": 0.8567,
+        "youtube": 0.0095,
+        "content_assembly": 0.6444,
+        "monetization": 3.1335,
+        "quality_write": 0.0579
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_humanoid_report_patt_420235",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9768,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.5774,
+        "content_cleanup_final": 0.0238,
+        "media_svg": 0.4136,
+        "youtube": 0.0273,
+        "content_assembly": 0.7157,
+        "monetization": 0.1528,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_pascagoula_encounter_508d7f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1354,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6703,
+        "content_cleanup_final": 0.0446,
+        "media_svg": 0.4458,
+        "youtube": 0.0221,
+        "content_assembly": 0.7335,
+        "monetization": 0.1426,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_witness_memory_facto_1608c1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3826,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.9138,
+        "content_cleanup_final": 0.0304,
+        "media_svg": 0.4419,
+        "youtube": 0.0105,
+        "content_assembly": 0.7736,
+        "monetization": 0.1399,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_close_encounters_fil_497246_spielberg_contact_le_548bca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7185,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7798,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 0.4368,
+        "youtube": 1.614,
+        "content_assembly": 0.6505,
+        "monetization": 0.1276,
+        "quality_write": 0.0523
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_invasions_mode_24419e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2239,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8708,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.4425,
+        "youtube": 0.0097,
+        "content_assembly": 0.6701,
+        "monetization": 1.129,
+        "quality_write": 0.0482
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_roles_cold_war_72a37d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1669,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7265,
+        "content_cleanup_final": 0.0422,
+        "media_svg": 0.4761,
+        "youtube": 0.0097,
+        "content_assembly": 0.6974,
+        "monetization": 0.1398,
+        "quality_write": 0.0551
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_atomic_science_alien_4e26db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6846,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7854,
+        "content_cleanup_final": 0.0447,
+        "media_svg": 0.4447,
+        "youtube": 1.5483,
+        "content_assembly": 0.6655,
+        "monetization": 0.1126,
+        "quality_write": 0.0598
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6303,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.883,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.4212,
+        "youtube": 1.8294,
+        "content_assembly": 0.6756,
+        "monetization": 1.7229,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9358,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.6998,
+        "content_cleanup_final": 0.0332,
+        "media_svg": 0.4123,
+        "youtube": 0.0098,
+        "content_assembly": 0.5945,
+        "monetization": 0.1106,
+        "quality_write": 0.0573
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.8015,
+      "phases": {
+        "preparation": 0.0283,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7807,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4273,
+        "youtube": 1.6851,
+        "content_assembly": 0.6338,
+        "monetization": 2.1617,
+        "quality_write": 0.0513
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0099,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6826,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.4536,
+        "youtube": 0.0107,
+        "content_assembly": 0.6326,
+        "monetization": 0.1336,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6802,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7396,
+        "content_cleanup_final": 0.0269,
+        "media_svg": 0.4395,
+        "youtube": 1.5881,
+        "content_assembly": 0.6894,
+        "monetization": 0.125,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_early_rocket_designs_4638bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3996,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8771,
+        "content_cleanup_final": 0.0342,
+        "media_svg": 0.4646,
+        "youtube": 0.019,
+        "content_assembly": 0.8,
+        "monetization": 0.1345,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_fiction_to_spaceflig_ecb865",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.419,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.9714,
+        "content_cleanup_final": 0.0461,
+        "media_svg": 0.4474,
+        "youtube": 0.0191,
+        "content_assembly": 0.6813,
+        "monetization": 1.1814,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5008,
+      "phases": {
+        "preparation": 0.0283,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6646,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.4236,
+        "youtube": 1.5084,
+        "content_assembly": 0.679,
+        "monetization": 0.1193,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_frank_paul_spacecraf_a06090",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.622,
+      "phases": {
+        "preparation": 0.0198,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7575,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.4147,
+        "youtube": 1.5185,
+        "content_assembly": 0.661,
+        "monetization": 0.1737,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_abduction_narratives_9d968d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7058,
+      "phases": {
+        "preparation": 0.0341,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8092,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.9669,
+        "youtube": 0.0114,
+        "content_assembly": 0.6788,
+        "monetization": 0.1171,
+        "quality_write": 0.059
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_encounter_scale_lang_9f4b87",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6447,
+      "phases": {
+        "preparation": 0.0199,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.724,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.9943,
+        "youtube": 0.0097,
+        "content_assembly": 0.6717,
+        "monetization": 0.1234,
+        "quality_write": 0.0685
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6604,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7669,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.9896,
+        "youtube": 0.0119,
+        "content_assembly": 0.6683,
+        "monetization": 0.1309,
+        "quality_write": 0.0493
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_arrival_alien_langua_0dbaeb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0993,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7586,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.4343,
+        "youtube": 0.0098,
+        "content_assembly": 0.6802,
+        "monetization": 0.1209,
+        "quality_write": 0.0422
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_three_body_civilisat_1f9671",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0771,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.747,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.4454,
+        "youtube": 0.0106,
+        "content_assembly": 0.6619,
+        "monetization": 0.1275,
+        "quality_write": 0.0433
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_unfamiliar_alien_lif_1b32b1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1373,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8076,
+        "content_cleanup_final": 0.0318,
+        "media_svg": 0.4261,
+        "youtube": 0.0099,
+        "content_assembly": 0.6697,
+        "monetization": 0.1242,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_contact_signal_decod_1956f0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.786,
+      "phases": {
+        "preparation": 0.036,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7812,
+        "content_cleanup_final": 0.0385,
+        "media_svg": 0.9652,
+        "youtube": 0.0106,
+        "content_assembly": 0.7031,
+        "monetization": 1.2045,
+        "quality_write": 0.0463
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0223,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7104,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.4512,
+        "youtube": 0.0097,
+        "content_assembly": 0.7199,
+        "monetization": 1.0271,
+        "quality_write": 0.0508
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_invasion_fears_98d74d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7049,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7223,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.9733,
+        "youtube": 0.0108,
+        "content_assembly": 0.7297,
+        "monetization": 0.1548,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_scenario_res_703ffa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7253,
+      "phases": {
+        "preparation": 0.0304,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7792,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.9474,
+        "youtube": 0.0104,
+        "content_assembly": 0.7271,
+        "monetization": 0.1418,
+        "quality_write": 0.0632
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_close_encounters_des_5bab5a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1715,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8559,
+        "content_cleanup_final": 0.0365,
+        "media_svg": 0.4395,
+        "youtube": 0.0103,
+        "content_assembly": 0.6374,
+        "monetization": 0.1178,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_seti_detection_respo_969545",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7492,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.9127,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.9467,
+        "youtube": 0.01,
+        "content_assembly": 0.6784,
+        "monetization": 1.0882,
+        "quality_write": 0.0556
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_welles_broadcast_rea_1577cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.016,
+      "phases": {
+        "preparation": 0.0206,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.7355,
+        "content_cleanup_final": 0.0361,
+        "media_svg": 0.4501,
+        "youtube": 0.019,
+        "content_assembly": 0.7146,
+        "monetization": 0.9916,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_independence_day_sau_a644de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1044,
+      "phases": {
+        "preparation": 0.019,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7204,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.4393,
+        "youtube": 0.0096,
+        "content_assembly": 0.7283,
+        "monetization": 0.1184,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_arrival_language_cha_b8d036",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7261,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8671,
+        "content_cleanup_final": 0.0423,
+        "media_svg": 0.9708,
+        "youtube": 0.0098,
+        "content_assembly": 0.6394,
+        "monetization": 0.1291,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_saucer_advertising_d_6f3b4e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9377,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7998,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.4565,
+        "youtube": 0.0095,
+        "content_assembly": 0.696,
+        "monetization": 0.8684,
+        "quality_write": 0.0536
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_blc1_signal_verifica_9e9033",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5966,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6344,
+        "content_cleanup_final": 0.0171,
+        "media_svg": 0.9429,
+        "youtube": 0.0127,
+        "content_assembly": 0.7794,
+        "monetization": 0.1204,
+        "quality_write": 0.0644
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_contact_message_disc_86e8b8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8385,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7925,
+        "content_cleanup_final": 0.0375,
+        "media_svg": 1.0218,
+        "youtube": 0.0101,
+        "content_assembly": 0.7467,
+        "monetization": 0.1552,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9598,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8131,
+        "content_cleanup_final": 0.0514,
+        "media_svg": 1.0717,
+        "youtube": 0.0112,
+        "content_assembly": 0.8136,
+        "monetization": 0.12,
+        "quality_write": 0.0595
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_future_encounter_sto_f28839_solaris_alien_intell_784911",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9191,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.9131,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.9993,
+        "youtube": 0.014,
+        "content_assembly": 0.7288,
+        "monetization": 0.1523,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_ce4_abduction_report_b5dacd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2196,
+      "phases": {
+        "preparation": 0.0323,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8161,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.4568,
+        "youtube": 0.0186,
+        "content_assembly": 0.6921,
+        "monetization": 0.128,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_close_encounte_73c34e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3586,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.839,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.4799,
+        "youtube": 0.011,
+        "content_assembly": 0.766,
+        "monetization": 0.1367,
+        "quality_write": 0.0742
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1994,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7676,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.4563,
+        "youtube": 0.0161,
+        "content_assembly": 0.7127,
+        "monetization": 0.1434,
+        "quality_write": 0.0614
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3271,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8764,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4563,
+        "youtube": 0.0105,
+        "content_assembly": 0.7441,
+        "monetization": 0.1283,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0863,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.7107,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.4169,
+        "youtube": 0.0126,
+        "content_assembly": 0.6874,
+        "monetization": 0.1445,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_1947_technology_cont_b1047a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3698,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.883,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.4705,
+        "youtube": 0.0108,
+        "content_assembly": 0.6811,
+        "monetization": 2.2218,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_media_saucer_transfo_d7a23d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1062,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7068,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.4301,
+        "youtube": 0.0113,
+        "content_assembly": 0.7151,
+        "monetization": 0.135,
+        "quality_write": 0.0518
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_propulsion_sys_6fcffa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6662,
+      "phases": {
+        "preparation": 0.0289,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7945,
+        "content_cleanup_final": 0.0373,
+        "media_svg": 0.9785,
+        "youtube": 0.0096,
+        "content_assembly": 0.6126,
+        "monetization": 0.1437,
+        "quality_write": 0.0606
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_materials_reve_6e0615",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6414,
+      "phases": {
+        "preparation": 0.0315,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7449,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 1.0246,
+        "youtube": 0.0182,
+        "content_assembly": 0.6926,
+        "monetization": 1.0624,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_ai_machine_min_152e78",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.6213,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8081,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.9817,
+        "youtube": 0.0096,
+        "content_assembly": 0.6751,
+        "monetization": 3.0385,
+        "quality_write": 0.0609
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_arnold_flying_saucer_7c1bb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9917,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6676,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.4249,
+        "youtube": 0.0147,
+        "content_assembly": 0.7011,
+        "monetization": 0.0574,
+        "quality_write": 0.0677
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_roswell_alien_techno_3f6287",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1207,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7618,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.4687,
+        "youtube": 0.0112,
+        "content_assembly": 0.7284,
+        "monetization": 0.0588,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_abduction_narrat_6dc361",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1765,
+      "phases": {
+        "preparation": 0.03,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8517,
+        "content_cleanup_final": 0.0386,
+        "media_svg": 0.417,
+        "youtube": 0.0113,
+        "content_assembly": 0.6515,
+        "monetization": 0.1235,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.4392,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7056,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.9271,
+        "youtube": 1.5743,
+        "content_assembly": 0.7765,
+        "monetization": 3.3463,
+        "quality_write": 0.055
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.65,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6596,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3977,
+        "youtube": 0.0153,
+        "content_assembly": 0.627,
+        "monetization": 0.8589,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_recovery_stories_67c595",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0929,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.666,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.4064,
+        "youtube": 1.5729,
+        "content_assembly": 0.7327,
+        "monetization": 0.6241,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1938_radio_broadcast_0153df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1255,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7921,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.4228,
+        "youtube": 0.0103,
+        "content_assembly": 0.676,
+        "monetization": 0.1088,
+        "quality_write": 0.0471
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3862,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8107,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3993,
+        "youtube": 1.5604,
+        "content_assembly": 0.7084,
+        "monetization": 0.7962,
+        "quality_write": 0.0605
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3599,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.8199,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.4237,
+        "youtube": 0.0084,
+        "content_assembly": 0.7211,
+        "monetization": 0.289,
+        "quality_write": 0.05
+      }
+    },
+    {
+      "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.1028,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8683,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.4227,
+        "youtube": 0.011,
+        "content_assembly": 0.7503,
+        "monetization": 4.9407,
+        "quality_write": 0.0527
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 333.6658,
+    "rebuilt_pages_per_minute": 37.9422,
+    "queued_rebuild_pages_per_minute": 37.9422,
+    "apparent_page_work_speedup": 2.8322,
+    "youtube_cache_prepare": {
+      "entries": 39859,
+      "updated": true,
+      "elapsed_seconds": 4.9766
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "12264": {
+          "pages": 67,
+          "successes": 67,
+          "failures": 0,
+          "total_worker_seconds": 319.5915,
+          "max_worker_seconds": 12.5635,
+          "last_base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff"
+        },
+        "9204": {
+          "pages": 70,
+          "successes": 70,
+          "failures": 0,
+          "total_worker_seconds": 318.7167,
+          "max_worker_seconds": 13.1779,
+          "last_base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59"
+        },
+        "29552": {
+          "pages": 74,
+          "successes": 74,
+          "failures": 0,
+          "total_worker_seconds": 317.2067,
+          "max_worker_seconds": 10.5763,
+          "last_base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9204,
+          "worker_duration_seconds": 13.1779,
+          "total_seconds": 13.1324,
+          "worker_started_at_utc": "2026-08-05T11:39:30.366457Z",
+          "worker_finished_at_utc": "2026-08-05T11:39:43.498901Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12264,
+          "worker_duration_seconds": 12.5635,
+          "total_seconds": 12.514,
+          "worker_started_at_utc": "2026-08-05T11:39:33.258792Z",
+          "worker_finished_at_utc": "2026-08-05T11:39:45.772817Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29552,
+          "worker_duration_seconds": 10.5763,
+          "total_seconds": 10.5252,
+          "worker_started_at_utc": "2026-08-05T11:37:47.855858Z",
+          "worker_finished_at_utc": "2026-08-05T11:37:58.381157Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c",
+          "level": 1,
+          "success": true,
+          "worker_pid": 12264,
+          "worker_duration_seconds": 9.6991,
+          "total_seconds": 9.6375,
+          "worker_started_at_utc": "2026-08-05T11:37:44.869765Z",
+          "worker_finished_at_utc": "2026-08-05T11:37:54.507273Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+          "level": 2,
+          "success": true,
+          "worker_pid": 12264,
+          "worker_duration_seconds": 9.0309,
+          "total_seconds": 8.985,
+          "worker_started_at_utc": "2026-08-05T11:37:54.570108Z",
+          "worker_finished_at_utc": "2026-08-05T11:38:03.555180Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29552,
+          "worker_duration_seconds": 8.4835,
+          "total_seconds": 8.4392,
+          "worker_started_at_utc": "2026-08-05T11:42:50.121861Z",
+          "worker_finished_at_utc": "2026-08-05T11:42:58.561076Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9204,
+          "worker_duration_seconds": 8.2718,
+          "total_seconds": 8.226,
+          "worker_started_at_utc": "2026-08-05T11:39:07.111687Z",
+          "worker_finished_at_utc": "2026-08-05T11:39:15.337710Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9204,
+          "worker_duration_seconds": 8.1474,
+          "total_seconds": 8.1028,
+          "worker_started_at_utc": "2026-08-05T11:43:01.750483Z",
+          "worker_finished_at_utc": "2026-08-05T11:43:09.853356Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12264,
+          "worker_duration_seconds": 7.9399,
+          "total_seconds": 7.8866,
+          "worker_started_at_utc": "2026-08-05T11:41:15.733702Z",
+          "worker_finished_at_utc": "2026-08-05T11:41:23.620390Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12264,
+          "worker_duration_seconds": 7.807,
+          "total_seconds": 7.7523,
+          "worker_started_at_utc": "2026-08-05T11:39:55.934401Z",
+          "worker_finished_at_utc": "2026-08-05T11:40:03.686718Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

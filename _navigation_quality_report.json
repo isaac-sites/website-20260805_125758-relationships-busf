@@ -1,0 +1,2491 @@
+{
+  "generated_at_utc": "2026-08-05T11:43:59.315351Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1465,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "visible_pages_without_inline_outbound_links": 0,
+    "average_inline_inbound_links_per_visible_page": 6.94,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Relationships_betwee_d7372c",
+        "title": "Where UFO Reports Meet Science Fiction's Imagination",
+        "permalink": "/relationships-between-ufos-and-science/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "title": "Alien civilizations",
+        "permalink": "/alien-civilizations/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_benevolent_alien_civ_3202dc",
+        "title": "Helpful Aliens",
+        "permalink": "/helpful-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_gethen_alien_culture_218658",
+        "title": "Gethen Culture",
+        "permalink": "/gethen-culture/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_star_trek_species_po_9fbbc5",
+        "title": "Galactic Societies",
+        "permalink": "/galactic-societies/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_unknowable_alien_int_217229",
+        "title": "Alien Minds",
+        "permalink": "/alien-minds/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20",
+        "title": "Martian Invasion",
+        "permalink": "/martian-invasion/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_xenology_alien_socie_b74545",
+        "title": "Xenology Ideas",
+        "permalink": "/xenology-ideas/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "title": "Alien communication",
+        "permalink": "/alien-communication/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_alien_telepathy_456d45",
+        "title": "Alien Telepathy",
+        "permalink": "/alien-telepathy/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_contact_message_deco_762792",
+        "title": "Contact Message",
+        "permalink": "/contact-message/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2",
+        "title": "Darmok",
+        "permalink": "/darmok/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_mathematics_alien_la_503a89",
+        "title": "Math Signals",
+        "permalink": "/math-signals/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598",
+        "title": "Universal Translators",
+        "permalink": "/universal-translators/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811",
+        "title": "Golden Record",
+        "permalink": "/golden-record/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "title": "Alien contact stories",
+        "permalink": "/alien-contact-stories/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed",
+        "title": "Human Identity",
+        "permalink": "/human-identity/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+        "title": "Alien Language",
+        "permalink": "/alien-language/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_close_encounters_sig_d40fcf",
+        "title": "Shared Signals",
+        "permalink": "/shared-signals/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_day_earth_warning_aae0cb",
+        "title": "Klaatu s Warning",
+        "permalink": "/klaatu-s-warning/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_et_friendship_755fa7",
+        "title": "E T Friendship",
+        "permalink": "/e-t-friendship/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_seti_signals_ce924c",
+        "title": "Signal Search",
+        "permalink": "/signal-search/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "title": "Science fiction alien",
+        "permalink": "/science-fiction-alien/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_arrival_heptapods_la_315bfa",
+        "title": "Arrival Aliens",
+        "permalink": "/arrival-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_cgi_alien_design_e07_62f2d1",
+        "title": "CGI Aliens",
+        "permalink": "/cgi-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3",
+        "title": "Alien Stereotypes",
+        "permalink": "/alien-stereotypes/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_star_wars_alien_soci_d9b335",
+        "title": "Star Wars Aliens",
+        "permalink": "/star-wars-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_war_of_worlds_martia_a1ab20",
+        "title": "Martian Invaders",
+        "permalink": "/martian-invaders/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_xenomorph_design_evo_98c0d7",
+        "title": "Xenomorph Design",
+        "permalink": "/xenomorph-design/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "title": "Science fiction",
+        "permalink": "/science-fiction/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_ai_machine_companion_253178",
+        "title": "Machine Minds",
+        "permalink": "/machine-minds/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_clarke_satellite_pre_3ea648",
+        "title": "Satellite Vision",
+        "permalink": "/satellite-vision/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102",
+        "title": "Dyson Spheres",
+        "permalink": "/dyson-spheres/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_communicat_82460f",
+        "title": "Communicators",
+        "permalink": "/communicators/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae",
+        "title": "Future Tablets",
+        "permalink": "/future-tablets/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d_warp_drive_limits_72bc25",
+        "title": "Warp Drives",
+        "permalink": "/warp-drives/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce",
+        "title": "Hill Case",
+        "permalink": "/hill-case/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_humanoid_report_patt_420235",
+        "title": "Humanoid Reports",
+        "permalink": "/humanoid-reports/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_pascagoula_encounter_508d7f",
+        "title": "Pascagoula",
+        "permalink": "/pascagoula/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_spielberg_contact_le_548bca",
+        "title": "Film Legacy",
+        "permalink": "/film-legacy/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_ufo_story_exchange_2a0ead",
+        "title": "Story Exchange",
+        "permalink": "/story-exchange/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_witness_memory_facto_1608c1",
+        "title": "Memory Factors",
+        "permalink": "/memory-factors/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "title": "Cold War alien",
+        "permalink": "/cold-war-alien/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_invasions_mode_24419e",
+        "title": "Alien Warfare",
+        "permalink": "/alien-warfare/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_roles_cold_war_72a37d",
+        "title": "Alien Roles",
+        "permalink": "/alien-roles/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_atomic_science_alien_4e26db",
+        "title": "Atomic Aliens",
+        "permalink": "/atomic-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600",
+        "title": "Body Snatchers",
+        "permalink": "/body-snatchers/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d",
+        "title": "Klaatu Warning",
+        "permalink": "/klaatu-warning/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88",
+        "title": "Invaders Control",
+        "permalink": "/invaders-control/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "title": "Early science fiction",
+        "permalink": "/early-science-fiction/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66",
+        "title": "Alien Craft",
+        "permalink": "/alien-craft/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94",
+        "title": "Amazing Stories",
+        "permalink": "/amazing-stories/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_early_rocket_designs_4638bc",
+        "title": "Early Rockets",
+        "permalink": "/early-rockets/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_fiction_to_spaceflig_ecb865",
+        "title": "Real Space Influence",
+        "permalink": "/real-space-influence/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+        "title": "The Flying Saucer",
+        "permalink": "/the-flying-saucer/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_frank_paul_spacecraf_a06090",
+        "title": "Frank Paul Art",
+        "permalink": "/frank-paul-art/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "title": "UFO encounter categories",
+        "permalink": "/ufo-encounter-categories/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_abduction_narratives_9d968d",
+        "title": "Abduction Claims",
+        "permalink": "/abduction-claims/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_encounter_scale_lang_9f4b87",
+        "title": "Encounter Language",
+        "permalink": "/encounter-language/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_fifth_kind_contact_5868fb",
+        "title": "Fifth Kind",
+        "permalink": "/fifth-kind/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872",
+        "title": "First Kind",
+        "permalink": "/first-kind/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_lubbock_lights_case_d809fd",
+        "title": "Lubbock Lights",
+        "permalink": "/lubbock-lights/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_second_kind_traces_8975d7",
+        "title": "Second Kind",
+        "permalink": "/second-kind/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "title": "Extraterrestrial life",
+        "permalink": "/extraterrestrial-life/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_arrival_alien_langua_0dbaeb",
+        "title": "Arrival Language",
+        "permalink": "/arrival-language/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_contact_signal_decod_1956f0",
+        "title": "Contact Signal",
+        "permalink": "/contact-signal/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_solaris_alien_ocean_e9aa0b",
+        "title": "Solaris",
+        "permalink": "/solaris/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_three_body_civilisat_1f9671",
+        "title": "Three Body",
+        "permalink": "/three-body/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_unfamiliar_alien_lif_1b32b1",
+        "title": "Alien Forms",
+        "permalink": "/alien-forms/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339",
+        "title": "War Worlds",
+        "permalink": "/war-worlds/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "title": "Human reactions",
+        "permalink": "/human-reactions/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_invasion_fears_98d74d",
+        "title": "Invasion Fears",
+        "permalink": "/invasion-fears/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_secrecy_trust_5c7b18",
+        "title": "Secrecy Concerns",
+        "permalink": "/secrecy-concerns/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_cooperation_cc72d0",
+        "title": "Cooperation Hopes",
+        "permalink": "/cooperation-hopes/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_scenario_res_703ffa",
+        "title": "Contact Scenarios",
+        "permalink": "/contact-scenarios/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_seti_detection_respo_969545",
+        "title": "SETI Response",
+        "permalink": "/seti-response/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_welles_broadcast_rea_1577cb",
+        "title": "Welles Broadcast",
+        "permalink": "/welles-broadcast/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "title": "Flying saucer imagery",
+        "permalink": "/flying-saucer-imagery/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_close_encounters_des_5bab5a",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters-5536e7/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_flying_saucer_toys_185774",
+        "title": "Saucer Toys",
+        "permalink": "/saucer-toys/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_independence_day_sau_a644de",
+        "title": "Independence Day",
+        "permalink": "/independence-day-0d97c9/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_modern_alien_craft_d4df0b",
+        "title": "Modern Craft",
+        "permalink": "/modern-craft/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_saucer_advertising_d_6f3b4e",
+        "title": "Saucer Design",
+        "permalink": "/saucer-design-3e035a/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f_tv_ufo_imagery_5ff01d",
+        "title": "TV UFOs",
+        "permalink": "/tv-ufos/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "title": "Future encounters",
+        "permalink": "/future-encounters/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_ai_alien_encounters_00943d",
+        "title": "Machine Aliens",
+        "permalink": "/machine-aliens/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_arrival_language_cha_b8d036",
+        "title": "Arrival Language",
+        "permalink": "/arrival-language-b479e8/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_blc1_signal_verifica_9e9033",
+        "title": "BLC 1 Signal",
+        "permalink": "/blc-1-signal/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_contact_message_disc_86e8b8",
+        "title": "Contact Signals",
+        "permalink": "/contact-signals/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0",
+        "title": "Cosmic Delays",
+        "permalink": "/cosmic-delays/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_future_encounter_sto_f28839_solaris_alien_intell_784911",
+        "title": "Alien Minds",
+        "permalink": "/alien-minds-bf9d3f/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "title": "J Allen Hynek",
+        "permalink": "/j-allen-hynek/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_ce4_abduction_report_b5dacd",
+        "title": "CE 4 Reports",
+        "permalink": "/ce-4-reports/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_close_encounte_73c34e",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters-2b8537/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_cufos_legacy_c13715",
+        "title": "CUFOS Legacy",
+        "permalink": "/cufos-legacy/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "title": "Sightings",
+        "permalink": "/sightings/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc",
+        "title": "Project Sign",
+        "permalink": "/project-sign/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "title": "Third Kind",
+        "permalink": "/third-kind/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "title": "Alien invasion versus",
+        "permalink": "/alien-invasion-versus/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_communication_f1ed3b",
+        "title": "Communication barriers",
+        "permalink": "/communication-barriers/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_technology_imb_2ada8d",
+        "title": "Technology imbalance",
+        "permalink": "/technology-imbalance/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_human_alien_reaction_7ba2fc",
+        "title": "Human reactions",
+        "permalink": "/human-reactions-aaca44/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_independence_day_inv_5b1c0f",
+        "title": "Independence Day",
+        "permalink": "/independence-day/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_meti_message_debate_5ec9ad",
+        "title": "Sending messages",
+        "permalink": "/sending-messages/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77",
+        "title": "War of Worlds",
+        "permalink": "/war-of-worlds/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "title": "Kenneth Arnold",
+        "permalink": "/kenneth-arnold/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_1947_technology_cont_b1047a",
+        "title": "1947 Context",
+        "permalink": "/1947-context/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_explanations_a5b806",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_shape_debate_239c2c",
+        "title": "Arnold Drawings",
+        "permalink": "/arnold-drawings/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e",
+        "title": "Arnold Sighting",
+        "permalink": "/arnold-sighting/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_media_saucer_transfo_d7a23d",
+        "title": "Media Shift",
+        "permalink": "/media-shift/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_saucer_scifi_impact_11657b",
+        "title": "Sci Fi Impact",
+        "permalink": "/sci-fi-impact/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "title": "Media shaping public",
+        "permalink": "/media-shaping-public/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391",
+        "title": "Project Blue Book",
+        "permalink": "/project-blue-book-fe8f31/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa",
+        "title": "Close Encounters",
+        "permalink": "/close-encounters-a71cfb/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d",
+        "title": "Online Communities",
+        "permalink": "/online-communities/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9",
+        "title": "TV News Effects",
+        "permalink": "/tv-news-effects/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+        "title": "Documentary Debates",
+        "permalink": "/documentary-debates/"
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+        "title": "The X Files",
+        "permalink": "/the-x-files/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "title": "Science fiction",
+        "permalink": "/science-fiction/",
+        "inline_inbound_count": 208
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "title": "UFO reports",
+        "permalink": "/ufo-reports/",
+        "inline_inbound_count": 86
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "title": "Sightings",
+        "permalink": "/sightings/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "title": "UFO culture",
+        "permalink": "/ufo-culture/",
+        "inline_inbound_count": 72
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+        "title": "First Contact",
+        "permalink": "/first-contact/",
+        "inline_inbound_count": 72
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "title": "Extraterrestrial life",
+        "permalink": "/extraterrestrial-life/",
+        "inline_inbound_count": 70
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "title": "Alien Technology",
+        "permalink": "/alien-technology/",
+        "inline_inbound_count": 67
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+        "title": "The Flying Saucer",
+        "permalink": "/the-flying-saucer/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "title": "The War",
+        "permalink": "/the-war/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "title": "Third Kind",
+        "permalink": "/third-kind/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "title": "UFO imagery",
+        "permalink": "/ufo-imagery/",
+        "inline_inbound_count": 33
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "title": "J Allen Hynek",
+        "permalink": "/j-allen-hynek/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "title": "Kenneth Arnold",
+        "permalink": "/kenneth-arnold/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66",
+        "title": "Alien Craft",
+        "permalink": "/alien-craft/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_military_technology_d86665",
+        "title": "Military technology",
+        "permalink": "/military-technology/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0",
+        "title": "Hynek",
+        "permalink": "/hynek/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+        "title": "Alien Language",
+        "permalink": "/alien-language/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "title": "Alien contact stories",
+        "permalink": "/alien-contact-stories/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "title": "Early science fiction",
+        "permalink": "/early-science-fiction/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+        "title": "The X Files",
+        "permalink": "/the-x-files/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339",
+        "title": "War Worlds",
+        "permalink": "/war-worlds/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "title": "Alien civilizations",
+        "permalink": "/alien-civilizations/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20",
+        "title": "Martian Invasion",
+        "permalink": "/martian-invasion/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88",
+        "title": "Invaders Control",
+        "permalink": "/invaders-control/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0",
+        "title": "Project Mogul",
+        "permalink": "/project-mogul/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "title": "UFO documentaries",
+        "permalink": "/ufo-documentaries/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "title": "Science fiction alien",
+        "permalink": "/science-fiction-alien/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872",
+        "title": "First Kind",
+        "permalink": "/first-kind/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e",
+        "title": "Arnold Sighting",
+        "permalink": "/arnold-sighting/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+        "title": "Documentary Debates",
+        "permalink": "/documentary-debates/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+        "title": "Invasion Films",
+        "permalink": "/invasion-films/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff",
+        "title": "1953 Film",
+        "permalink": "/1953-film/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed",
+        "title": "Human Identity",
+        "permalink": "/human-identity/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce",
+        "title": "Hill Case",
+        "permalink": "/hill-case/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600",
+        "title": "Body Snatchers",
+        "permalink": "/body-snatchers/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+        "title": "Condon Report",
+        "permalink": "/condon-report/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94",
+        "title": "Amazing Stories",
+        "permalink": "/amazing-stories/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "title": "UFO encounter categories",
+        "permalink": "/ufo-encounter-categories/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "title": "Flying saucer imagery",
+        "permalink": "/flying-saucer-imagery/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc",
+        "title": "Project Sign",
+        "permalink": "/project-sign/",
+        "inline_inbound_count": 7
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_index",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c",
+        "type": "parent"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_cold_war_ufo_tv_d7e77c",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_index",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_modern_uap_televisio_b07693",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_project_blue_book_se_1a221a",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_project_ufo_tv_drama_84c93d",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1_x_files_storytelling_ee23a8",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c",
+        "type": "parent"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_flying_saucer_design_f989fd",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_historical_sky_ufo_i_85161a",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_index",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_science_fiction_ufo_e8f606",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_film_lighting_ef_a2e9d7",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c",
+        "type": "parent"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_aaro_alien_technolog_aea42f",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_index",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_uap_balloon_explanat_bf0369",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_ufo_perception_error_3da088",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_venus_ufo_sightings_b449b9",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c",
+        "type": "parent"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_secret_technology_fi_a0fe38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_index",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+        "type": "child"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c",
+        "type": "parent"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_close_encounters_fil_497246",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_first_contact_reacti_0dfc16",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_flying_saucer_imager_85481f",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_television_f616b1",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_case_files_ee1010",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_ufo_explanations_5e91ba",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_project_blue_book_07c262",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_roswell_mythology_6f3c17",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_ufo_documentaries_812164_ariel_school_witness_14997c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_documentaries_812164",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_uap_modern_debates_dba413_modern_contact_films_e3f844",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_uap_modern_debates_dba413",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_civilizations_c427e6",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_communication_d52b38",
+        "to": "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_military_technology_d86665",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_military_technology_d86665",
+        "to": "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_ufo_fan_communities_02d052",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_alien_technology_pre_39752d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_contact_storie_393745",
+        "to": "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "to": "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "to": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "to": "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Relationships_betwee_d7372c_alien_design_evoluti_1ea687",
+        "to": "Relationships_betwee_d7372c_extraterrestrial_que_117f48",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

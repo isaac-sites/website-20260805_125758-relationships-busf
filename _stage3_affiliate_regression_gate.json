@@ -1,0 +1,2922 @@
+{
+  "generated_at": "2026-08-05T12:44:02",
+  "passed": true,
+  "baseline": {
+    "article_pages": 241,
+    "amazon_specific_pages": 95,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Relationships_betwee_d7372c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_benevolent_alien_civ_3202dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_gethen_alien_culture_218658": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_star_trek_species_po_9fbbc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_unknowable_alien_int_217229": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_xenology_alien_socie_b74545": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_alien_telepathy_456d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_contact_message_deco_762792": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_mathematics_alien_la_503a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_close_encounters_sig_d40fcf": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_day_earth_warning_aae0cb": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_et_friendship_755fa7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_seti_signals_ce924c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_arrival_heptapods_la_315bfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_cgi_alien_design_e07_62f2d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_star_wars_alien_soci_d9b335": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_war_of_worlds_martia_a1ab20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_xenomorph_design_evo_98c0d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_ai_machine_companion_253178": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_clarke_satellite_pre_3ea648": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_communicat_82460f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_warp_drive_limits_72bc25": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_humanoid_report_patt_420235": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_pascagoula_encounter_508d7f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_spielberg_contact_le_548bca": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_ufo_story_exchange_2a0ead": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_witness_memory_facto_1608c1": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_invasions_mode_24419e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_roles_cold_war_72a37d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_atomic_science_alien_4e26db": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_early_rocket_designs_4638bc": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_fiction_to_spaceflig_ecb865": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_frank_paul_spacecraf_a06090": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_abduction_narratives_9d968d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_encounter_scale_lang_9f4b87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_fifth_kind_contact_5868fb": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_lubbock_lights_case_d809fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_second_kind_traces_8975d7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_arrival_alien_langua_0dbaeb": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_contact_signal_decod_1956f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_solaris_alien_ocean_e9aa0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_three_body_civilisat_1f9671": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_unfamiliar_alien_lif_1b32b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_invasion_fears_98d74d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_secrecy_trust_5c7b18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_cooperation_cc72d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_scenario_res_703ffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_seti_detection_respo_969545": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_welles_broadcast_rea_1577cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_close_encounters_des_5bab5a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_flying_saucer_toys_185774": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_independence_day_sau_a644de": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_modern_alien_craft_d4df0b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_saucer_advertising_d_6f3b4e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_tv_ufo_imagery_5ff01d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_ai_alien_encounters_00943d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_arrival_language_cha_b8d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_blc1_signal_verifica_9e9033": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_contact_message_disc_86e8b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_solaris_alien_intell_784911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_ce4_abduction_report_b5dacd": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_close_encounte_73c34e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_cufos_legacy_c13715": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_communication_f1ed3b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_technology_imb_2ada8d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_human_alien_reaction_7ba2fc": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_independence_day_inv_5b1c0f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_meti_message_debate_5ec9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_1947_technology_cont_b1047a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_explanations_a5b806": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_shape_debate_239c2c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_media_saucer_transfo_d7a23d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_saucer_scifi_impact_11657b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_alien_nuclear_fears_348b09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_alien_weapon_failure_2a7f06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_area_51_technology_s_06ba3a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_day_earth_stood_stil_5b06df": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_war_worlds_weapon_ad_04828a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_case_files_ee1010": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_closure_c42198": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_michigan_1966_sighti_7280ca": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_ufo_evidence_limits_0fab89": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_alien_bodies_fe175f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_coverup_clai_4f5888": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_debris_debat_6da634": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_scifi_influe_1eee6f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_tourism_memo_a75dc3": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_ai_machine_min_152e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_materials_reve_6e0615": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_propulsion_sys_6fcffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_stargate_technology_2b8f09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_ufo_crash_retrieval_b3e5ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_ai_alien_intelligenc_7b3725": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_modern_contact_films_e3f844": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_nasa_uap_study_25636b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_pentagon_uap_review_902aab": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_secret_technology_tr_587e6d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_uap_disclosure_movem_7f4d97": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ariel_school_witness_14997c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_netflix_encounters_s_a02e2e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_phenomenon_disclosur_b7d45b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_documentary_edit_65981b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_evidence_emotion_65ba23": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_uap_public_atten_30db5d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_aaro_alien_technolog_aea42f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_uap_balloon_explanat_bf0369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_ufo_perception_error_3da088": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_venus_ufo_sightings_b449b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_mufon_network_7b94f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_online_ufo_communiti_c9607d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_roswell_culture_8eb3e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_scifi_magazines_ufo_132444": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_conventions_e91087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_symbols_imagery_fb82a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_1950s_ufo_films_50f9f4": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_arnold_flying_saucer_7c1bb0": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_roswell_alien_techno_3f6287": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_abduction_narrat_6dc361": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_recovery_stories_67c595": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_cold_war_ufo_films_71460e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_flying_saucer_symbol_23f5ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_grey_alien_symbol_af3892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_roswell_cultural_sym_cffd07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_space_age_design_4e9188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_ufo_emoji_culture_98f008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_cold_war_ufo_tv_d7e77c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_modern_uap_televisio_b07693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_project_blue_book_se_1a221a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_project_ufo_tv_drama_84c93d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_x_files_storytelling_ee23a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_flying_saucer_design_f989fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_historical_sky_ufo_i_85161a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_science_fiction_ufo_e8f606": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_film_lighting_ef_a2e9d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1938_radio_broadcast_0153df": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_2005_spielberg_film_f8b80e": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_human_vulnerability_dc0c8c": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Relationships_betwee_d7372c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_benevolent_alien_civ_3202dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_gethen_alien_culture_218658": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_star_trek_species_po_9fbbc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_unknowable_alien_int_217229": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_war_of_worlds_martia_a1ab20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_civilizations_c427e6_xenology_alien_socie_b74545": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_alien_telepathy_456d45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_contact_message_deco_762792": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_darmok_translation_14fbd2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_mathematics_alien_la_503a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_universal_translator_e14598": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_communication_d52b38_voyager_golden_recor_5c0811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_alien_identity_2017ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_arrival_language_5d6_69a6bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_close_encounters_sig_d40fcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_day_earth_warning_aae0cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_et_friendship_755fa7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_contact_storie_393745_seti_signals_ce924c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_arrival_heptapods_la_315bfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_cgi_alien_design_e07_62f2d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_grey_alien_stereotyp_0d5cf3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_star_wars_alien_soci_d9b335": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_war_of_worlds_martia_a1ab20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_design_evoluti_1ea687_xenomorph_design_evo_98c0d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_ai_machine_companion_253178": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_clarke_satellite_pre_3ea648": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_communicat_82460f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_star_trek_padd_table_4c76ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_alien_technology_pre_39752d_warp_drive_limits_72bc25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_hill_encounter_evide_29a3ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_humanoid_report_patt_420235": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_pascagoula_encounter_508d7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_spielberg_contact_le_548bca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_ufo_story_exchange_2a0ead": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_close_encounters_fil_497246_witness_memory_facto_1608c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_invasions_mode_24419e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_alien_roles_cold_war_72a37d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_atomic_science_alien_4e26db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_body_snatchers_ident_7fe600": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_day_earth_nuclear_wa_89c06d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_cold_war_alien_films_d852d3_invaders_from_mars_c_3eae88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_alien_craft_expectat_cdcf66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_amazing_stories_spac_69fd94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_early_rocket_designs_4638bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_fiction_to_spaceflig_ecb865": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_flying_saucer_symbol_8077b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_frank_paul_spacecraf_a06090": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_early_scifi_spacecra_76eb09_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_abduction_narratives_9d968d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_encounter_scale_lang_9f4b87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_fifth_kind_contact_5868fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_first_kind_sightings_6df872": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_lubbock_lights_case_d809fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_encounter_categories_8261ba_second_kind_traces_8975d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_arrival_alien_langua_0dbaeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_contact_signal_decod_1956f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_solaris_alien_ocean_e9aa0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_three_body_civilisat_1f9671": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_unfamiliar_alien_lif_1b32b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_extraterrestrial_que_117f48_war_of_worlds_invasi_edb339": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_invasion_fears_98d74d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_alien_secrecy_trust_5c7b18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_cooperation_cc72d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_contact_scenario_res_703ffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_seti_detection_respo_969545": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_first_contact_reacti_0dfc16_welles_broadcast_rea_1577cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_close_encounters_des_5bab5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_flying_saucer_toys_185774": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_independence_day_sau_a644de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_modern_alien_craft_d4df0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_saucer_advertising_d_6f3b4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_flying_saucer_imager_85481f_tv_ufo_imagery_5ff01d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_ai_alien_encounters_00943d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_arrival_language_cha_b8d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_blc1_signal_verifica_9e9033": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_contact_message_disc_86e8b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_interstellar_message_9562a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_future_encounter_sto_f28839_solaris_alien_intell_784911": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_ce4_abduction_report_b5dacd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_close_encounte_73c34e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_cufos_legacy_c13715": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_hynek_sighting_categ_24b21d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_project_sign_classif_60e1fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_hynek_classification_643809_third_kind_legacy_043bc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_communication_f1ed3b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_alien_technology_imb_2ada8d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_human_alien_reaction_7ba2fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_independence_day_inv_5b1c0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_meti_message_debate_5ec9ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_invasion_vs_contact_d340ec_war_of_the_worlds_in_088b77": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_1947_technology_cont_b1047a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_explanations_a5b806": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_shape_debate_239c2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_arnold_sighting_orig_23a18e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_media_saucer_transfo_d7a23d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_kenneth_arnold_sight_b5d3b9_saucer_scifi_impact_11657b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_blue_book_media_lega_b09391": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_close_encounters_ima_28f7aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_online_ufo_communiti_c9607d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_tv_news_ufo_beliefs_d16ad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_ufo_documentary_deba_d70d30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_media_ufo_beliefs_fa506d_x_files_ufo_impact_d9e785": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_alien_nuclear_fears_348b09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_alien_weapon_failure_2a7f06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_area_51_technology_s_06ba3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_day_earth_stood_stil_5b06df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_independence_day_shi_ef40cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_military_technology_d86665_war_worlds_weapon_ad_04828a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_case_files_ee1010": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_blue_book_closure_c42198": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_cold_war_ufo_securit_5831b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_hynek_ufo_views_1811f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_michigan_1966_sighti_7280ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_project_blue_book_07c262_ufo_evidence_limits_0fab89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_project_mogul_roswel_ad2ec0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_alien_bodies_fe175f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_coverup_clai_4f5888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_debris_debat_6da634": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_scifi_influe_1eee6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_roswell_mythology_6f3c17_roswell_tourism_memo_a75dc3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_ai_machine_min_152e78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_materials_reve_6e0615": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_alien_propulsion_sys_6fcffa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_stargate_technology_2b8f09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_ufo_crash_retrieval_b3e5ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_secret_technology_fi_a0fe38_x_files_alien_techno_b16b0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_ai_alien_intelligenc_7b3725": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_modern_contact_films_e3f844": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_nasa_uap_study_25636b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_pentagon_uap_review_902aab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_secret_technology_tr_587e6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_uap_modern_debates_dba413_uap_disclosure_movem_7f4d97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ariel_school_witness_14997c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_netflix_encounters_s_a02e2e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_phenomenon_disclosur_b7d45b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_documentary_edit_65981b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_evidence_emotion_65ba23": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_documentaries_812164_ufo_uap_public_atten_30db5d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_aaro_alien_technolog_aea42f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_condon_report_findin_899be8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_nasa_uap_study_findi_0a51e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_uap_balloon_explanat_bf0369": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_ufo_perception_error_3da088": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_explanations_5e91ba_venus_ufo_sightings_b449b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_mufon_network_7b94f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_online_ufo_communiti_c9607d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_roswell_culture_8eb3e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_scifi_magazines_ufo_132444": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_conventions_e91087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_fan_communities_02d052_ufo_symbols_imagery_fb82a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_1950s_ufo_films_50f9f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_arnold_flying_saucer_7c1bb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_roswell_alien_techno_3f6287": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_abduction_narrat_6dc361": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_first_contact_im_bfc91b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f_ufo_recovery_stories_67c595": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_cold_war_ufo_films_71460e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_flying_saucer_symbol_23f5ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_grey_alien_symbol_af3892": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_roswell_cultural_sym_cffd07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_space_age_design_4e9188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_symbol_impact_b9d8a8_ufo_emoji_culture_98f008": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_cold_war_ufo_tv_d7e77c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_modern_uap_televisio_b07693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_project_blue_book_se_1a221a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_project_ufo_tv_drama_84c93d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_ufo_tv_mystery_forma_e2bdd0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_television_f616b1_x_files_storytelling_ee23a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_1950s_ufo_invasion_f_f09d1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_flying_saucer_design_f989fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_historical_sky_ufo_i_85161a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_science_fiction_ufo_e8f606": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_contact_theme_sh_01c680": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_ufo_visual_art_b55558_ufo_film_lighting_ef_a2e9d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1938_radio_broadcast_0153df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_1953_film_adaptation_ac20ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_2005_spielberg_film_f8b80e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_human_vulnerability_dc0c8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_jeff_wayne_adaptatio_c44d59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Relationships_betwee_d7372c_war_of_the_worlds_le_e18263_martian_technology_u_58e650": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 241,
+  "regressions": []
+}
