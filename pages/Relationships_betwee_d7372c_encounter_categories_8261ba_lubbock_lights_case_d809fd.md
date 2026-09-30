@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 06:07:23'
+last_modified_at: '2026-08-05 06:07:23'
 parent_title: UFO encounter categories | Relationships between UFOs and science fiction
 parent_permalink: /ufo-encounter-categories/
 parent_nav_short_title: UFO encounter categories

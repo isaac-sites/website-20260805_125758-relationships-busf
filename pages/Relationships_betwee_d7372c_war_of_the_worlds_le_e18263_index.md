@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-war-of-the/
 description: Focused pages that expand on The War.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_war_of_the_worlds_le_e18263
 parent_title: The War | Relationships between UFOs and science fiction

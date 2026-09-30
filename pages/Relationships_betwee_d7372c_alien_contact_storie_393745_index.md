@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-alien/
 description: Focused pages that expand on Alien contact stories.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_alien_contact_storie_393745
 parent_title: Alien contact stories | Relationships between UFOs and science fiction

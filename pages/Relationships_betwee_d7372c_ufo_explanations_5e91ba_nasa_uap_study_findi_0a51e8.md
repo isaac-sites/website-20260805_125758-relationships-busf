@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-05 06:08:07'
+last_modified_at: '2026-08-05 06:08:07'
 parent_title: Scientific explanations | UFO Fiction Exchange
 parent_permalink: /scientific-explanations/
 parent_nav_short_title: Scientific explanations

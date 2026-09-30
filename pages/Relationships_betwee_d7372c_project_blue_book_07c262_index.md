@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-project/
 description: Focused pages that expand on Project Blue Book.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_project_blue_book_07c262
 parent_title: Project Blue Book | Relationships between UFOs and science fiction

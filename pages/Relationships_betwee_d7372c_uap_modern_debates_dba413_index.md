@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-uap-modern/
 description: Focused pages that expand on UAP debates.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_uap_modern_debates_dba413
 parent_title: UAP debates | Relationships between UFOs and science fiction
