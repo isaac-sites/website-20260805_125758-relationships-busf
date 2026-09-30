@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-hynek/
 description: Focused pages that expand on J Allen Hynek.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_hynek_classification_643809
 parent_title: J Allen Hynek | Relationships between UFOs and science fiction

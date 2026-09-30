@@ -291,6 +291,7 @@ next_link:
   short_title: Future Tablets
   heading_title: The Star Trek Tablet Before Tablets
 date: '2026-08-05 12:41:43 '
+last_modified_at: '2026-08-05 12:41:43 '
 header:
   og_image: /assets/images/Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102-Illustration-1-social.jpg
   preview_image: /assets/images/Relationships_betwee_d7372c_alien_technology_pre_39752d_dyson_sphere_searche_480102-Illustration-1.webp
