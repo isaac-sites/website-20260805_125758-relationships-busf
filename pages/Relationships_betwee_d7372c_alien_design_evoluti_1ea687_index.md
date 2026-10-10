@@ -4,7 +4,7 @@ title_full: Science fiction alien Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /relationships-betwee-d7372c-alien/
+permalink: /relationships-betwee-d7372c-science-fiction-alien/
 description: Focused pages that expand on Science fiction alien.
 date: '2026'
 layout: default

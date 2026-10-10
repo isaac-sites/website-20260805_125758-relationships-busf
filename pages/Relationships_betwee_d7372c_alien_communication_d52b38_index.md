@@ -4,7 +4,7 @@ title_full: Alien communication Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /relationships-betwee-d7372c-alien/
+permalink: /relationships-betwee-d7372c-alien-communication/
 description: Focused pages that expand on Alien communication.
 date: '2026'
 layout: default
