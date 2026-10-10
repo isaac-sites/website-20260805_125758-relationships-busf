@@ -4,7 +4,7 @@ title_full: Alien civilizations Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /relationships-betwee-d7372c-alien/
+permalink: /relationships-betwee-d7372c-alien-civilizations/
 description: Focused pages that expand on Alien civilizations.
 date: '2026'
 last_modified_at: '2026'

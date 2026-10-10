@@ -4,7 +4,7 @@ title_full: Scientific explanations Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /relationships-betwee-d7372c-ufo/
+permalink: /relationships-betwee-d7372c-scientific-explanations/
 description: Focused pages that expand on Scientific explanations.
 date: '2026'
 last_modified_at: '2026'
