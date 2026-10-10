@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-ufo-visual/
 description: Focused pages that expand on UFO imagery.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_ufo_visual_art_b55558
 parent_title: UFO imagery | Relationships between UFOs and science fiction

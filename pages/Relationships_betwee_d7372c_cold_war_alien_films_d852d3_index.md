@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-cold-war/
 description: Focused pages that expand on Cold War alien.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_cold_war_alien_films_d852d3
 parent_title: Cold War alien | Relationships between UFOs and science fiction

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 07:10:54'
+last_modified_at: '2026-08-03 07:10:54'
 parent_title: Military technology | Relationships between UFOs and science fiction
 parent_permalink: /military-technology/
 parent_nav_short_title: Military technology

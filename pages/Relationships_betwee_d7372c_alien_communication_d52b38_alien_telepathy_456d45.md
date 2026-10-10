@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 07:37:35'
+last_modified_at: '2026-08-03 07:37:35'
 parent_title: Alien communication | Relationships between UFOs and science fiction
 parent_permalink: /alien-communication/
 parent_nav_short_title: Alien communication

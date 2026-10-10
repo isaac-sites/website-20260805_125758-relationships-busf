@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-ufo/
 description: Focused pages that expand on UFO reports.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_ufo_reports_inspirat_472d2f
 parent_title: UFO reports | Relationships between UFOs and science fiction

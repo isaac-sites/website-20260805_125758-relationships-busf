@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-military/
 description: Focused pages that expand on Military technology.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_military_technology_d86665
 parent_title: Military technology | Relationships between UFOs and science fiction

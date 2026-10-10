@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /relationships-betwee-d7372c-future/
 description: Focused pages that expand on Future encounters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Relationships_betwee_d7372c_future_encounter_sto_f28839
 parent_title: Future encounters | Relationships between UFOs and science fiction

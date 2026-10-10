@@ -243,6 +243,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-03 04:36:04'
+last_modified_at: '2026-08-03 04:36:04'
 parent_title: UFO Fiction Exchange
 parent_permalink: /relationships-between-ufos-and-science/
 parent_nav_short_title: UFO Fiction Exchange
