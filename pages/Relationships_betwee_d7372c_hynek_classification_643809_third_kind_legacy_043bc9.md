@@ -914,7 +914,7 @@ The enduring appeal of the third kind encounter lies in that tension. It began a
 
 25.<a id="endnote-25"></a>
    Source: paranormal-encyclopedia.com  
-   Link:<a href="https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind</a>  
+   Link:https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind  
 
 26.<a id="endnote-26"></a>
    Source: wikiland.org  

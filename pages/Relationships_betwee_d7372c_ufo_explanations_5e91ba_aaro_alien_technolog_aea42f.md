@@ -331,7 +331,7 @@ This conclusion does not mean every UAP report has been explained. Instead, AARO
 
 ## Reviewing government records
 
-AARO’s Historical Record Report, Volume I, examined US government involvement with UAP from 1945 onwards, including previous investigations, alleged crash-retrieval stories, claims of hidden programmes and accusations that recovered materials had been analysed for reverse engineering. The review was created after Congress directed the Department of Defense to examine the historical record of UAP-related activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosurearchives.com/events/aaro-historical-record-vol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosurearchives.com">[Disclosure Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-snippet">Disclosure ArchivesAARO releases Historical Record Report, Volume I · Disclosure ArchivesMarch 8, 2024...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+AARO’s Historical Record Report, Volume I, examined US government involvement with UAP from 1945 onwards, including previous investigations, alleged crash-retrieval stories, claims of hidden programmes and accusations that recovered materials had been analysed for reverse engineering. The review was created after Congress directed the Department of Defense to examine the historical record of UAP-related activity.<span class="citation-link-wrap">[Disclosure Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">disclosurearchives.com</span><span class="citation-popover-snippet">Disclosure ArchivesAARO releases Historical Record Report, Volume I · Disclosure ArchivesMarch 8, 2024...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 The report’s main finding was that no US government investigation, academic study or official review had confirmed a UAP sighting as extraterrestrial technology. AARO also stated that it found no empirical evidence supporting claims that the US government or private companies had recovered and exploited alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1March 9, 2024...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
@@ -853,7 +853,7 @@ The unresolved nature of some UAP cases keeps scientific investigation worthwhil
 
 16.<a id="endnote-16"></a>
    Source: disclosurearchives.com  
-   Link:<a href="https://disclosurearchives.com/events/aaro-historical-record-vol" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/events/aaro-historical-record-vol</a>  
+   Link:https://disclosurearchives.com/events/aaro-historical-record-vol  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure ArchivesAARO releases Historical Record Report, Volume I · Disclosure ArchivesMarch 8, 2024...</p></details>
    Published: March 8, 2024  
 
@@ -933,4 +933,4 @@ The unresolved nature of some UAP cases keeps scientific investigation worthwhil
 
 30.<a id="endnote-30"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
