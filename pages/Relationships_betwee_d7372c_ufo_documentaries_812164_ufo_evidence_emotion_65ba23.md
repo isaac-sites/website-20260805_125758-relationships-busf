@@ -924,7 +924,6 @@ The lasting appeal of UFO documentaries comes from this combination of evidence 
 19.<a id="endnote-19"></a>
    Source: disclosurearchives.com  
    Title: fbi flying disc master file 1947 1968  
-   Link:https://disclosurearchives.com/events/fbi-flying-disc-master-file  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI 62-HQ-83894: the master &#x27;flying disc&#x27; file, 1947–1968 · Disclosure ArchivesMay 8, 2026 — Document Release Records: 1947–1968 · Releas...</p></details>
    Published: May 8, 2026  
 

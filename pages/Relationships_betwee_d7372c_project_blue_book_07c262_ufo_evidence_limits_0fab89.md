@@ -907,7 +907,6 @@ This difference explains why unidentified UFO cases remain culturally significan
 
 24.<a id="endnote-24"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 
 25.<a id="endnote-25"></a>
    Source: secretsdeclassified.af.mil  
