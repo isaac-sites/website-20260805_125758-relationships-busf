@@ -1033,7 +1033,7 @@ This is why UFO reports have remained valuable to science fiction even when indi
 
 19.<a id="endnote-19"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/j-allen-hynek/</a>  
+   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 ### Additional References
 

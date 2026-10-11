@@ -860,7 +860,7 @@ The broader significance of second-kind encounters is that they represent the po
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
    Title: rendlesham forest  
-   Link:<a href="https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/</a>  
+   Link:https://nhinewsnetwork.com/records/united-kingdom/rendlesham-forest/  
 
 ### Additional References
 
@@ -884,7 +884,7 @@ The broader significance of second-kind encounters is that they represent the po
 
 18.<a id="endnote-18"></a>
    Source: paranormal-encyclopedia.com  
-   Link:<a href="https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind</a>  
+   Link:https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind  
 
 19.<a id="endnote-19"></a>
    Source: paranormal-encyclopedia.com  

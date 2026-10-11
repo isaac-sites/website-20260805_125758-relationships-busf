@@ -936,7 +936,7 @@ The lasting connection between UFOs and science fiction is therefore less about 
 
 14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link:<a href="https://www.encyclopedia.com/arts/educational-magazines/[war-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/arts/educational-magazines/[war-worlds</a>  
+   Link:https://www.encyclopedia.com/arts/educational-magazines/[war-worlds  
 
 15.<a id="endnote-15"></a>
    Source: youtube.com  
@@ -971,7 +971,7 @@ The lasting connection between UFOs and science fiction is therefore less about 
 
 21.<a id="endnote-21"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/j-allen-hynek/</a>  
+   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 22.<a id="endnote-22"></a>
    Source: ultimatepopculture.fandom.com  
@@ -1004,7 +1004,7 @@ The lasting connection between UFOs and science fiction is therefore less about 
 
 27.<a id="endnote-27"></a>
    Source: paranormal-encyclopedia.com  
-   Link:<a href="https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind</a>  
+   Link:https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind  
 
 28.<a id="endnote-28"></a>
    Source: ebsco.com  

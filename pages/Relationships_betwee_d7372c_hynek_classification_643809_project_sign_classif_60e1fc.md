@@ -877,7 +877,7 @@ Project Sign’s early work remains important because it shows the moment when [
 
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/j-allen-hynek/</a>  
+   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 15.<a id="endnote-15"></a>
    Source: cufos.org  

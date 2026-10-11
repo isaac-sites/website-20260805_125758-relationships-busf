@@ -928,7 +928,7 @@ The relationship is best understood as a continuous exchange rather than a one-w
 
 26.<a id="endnote-26"></a>
    Source: paranormal-encyclopedia.com  
-   Link:<a href="https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind</a>  
+   Link:https://www.paranormal-encyclopedia.com/u/ufo/close-encounters/[first-kind  
 
 27.<a id="endnote-27"></a>
    Source: theguardian.com  

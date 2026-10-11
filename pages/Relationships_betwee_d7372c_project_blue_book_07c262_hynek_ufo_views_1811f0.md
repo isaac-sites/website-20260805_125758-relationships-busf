@@ -891,7 +891,7 @@ His lasting contribution was therefore not a final answer about UFOs, but a chan
 
 25.<a id="endnote-25"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/j-allen-hynek/</a>  
+   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 ### Additional References
 

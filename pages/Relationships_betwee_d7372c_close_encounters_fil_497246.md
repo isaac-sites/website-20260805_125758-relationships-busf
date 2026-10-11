@@ -1011,7 +1011,7 @@ From Hynek’s original classification to Spielberg’s cinematic interpretation
 
 16.<a id="endnote-16"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/j-allen-hynek/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/j-allen-hynek/</a>  
+   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 17.<a id="endnote-17"></a>
    Source: daviddarling.info  
