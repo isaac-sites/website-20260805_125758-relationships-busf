@@ -876,7 +876,6 @@ The continuing debate therefore sits between two competing expectations. One is 
 
 15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 16.<a id="endnote-16"></a>
    Source: congress.gov  

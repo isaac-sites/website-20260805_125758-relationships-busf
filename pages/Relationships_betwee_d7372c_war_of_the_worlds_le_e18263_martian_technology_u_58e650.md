@@ -847,7 +847,6 @@ The significance of Wells’s inventions lies in how they changed the questions 
 
 12.<a id="endnote-12"></a>
    Source: encyclopedia.com  
-   Link:https://www.encyclopedia.com/arts/educational-magazines/[war-worlds  
 
 ### Additional References
 

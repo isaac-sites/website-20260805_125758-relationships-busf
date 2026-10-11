@@ -1012,7 +1012,6 @@ His classification system remains one of the most recognisable frameworks in [UF
 
 14.<a id="endnote-14"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/biographies/j-allen-hynek/  
 
 15.<a id="endnote-15"></a>
    Source: declassified.ca  
@@ -1069,7 +1068,6 @@ His classification system remains one of the most recognisable frameworks in [UF
 
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 25.<a id="endnote-25"></a>
    Source: si.edu  

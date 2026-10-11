@@ -853,7 +853,6 @@ The unresolved nature of some UAP cases keeps scientific investigation worthwhil
 
 16.<a id="endnote-16"></a>
    Source: disclosurearchives.com  
-   Link:https://disclosurearchives.com/events/aaro-historical-record-vol  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure ArchivesAARO releases Historical Record Report, Volume I · Disclosure ArchivesMarch 8, 2024...</p></details>
    Published: March 8, 2024  
 
@@ -933,4 +932,3 @@ The unresolved nature of some UAP cases keeps scientific investigation worthwhil
 
 30.<a id="endnote-30"></a>
    Source: ufotransparency.com  
-   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  

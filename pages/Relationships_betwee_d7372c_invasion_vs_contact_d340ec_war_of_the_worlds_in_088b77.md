@@ -813,7 +813,6 @@ At the same time, the novel is not a straightforward historical allegory with on
 5.<a id="endnote-5"></a>
    Source: encyclopedia.com  
    Title: The War of the Worlds | Encyclopedia.com  
-   Link:https://www.encyclopedia.com/arts/educational-magazines/[war-worlds  
 
 6.<a id="endnote-6"></a>
    Source: iarconsortium.org  

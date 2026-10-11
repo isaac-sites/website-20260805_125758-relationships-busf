@@ -853,7 +853,6 @@ For Close Encounters of the Third Kind, this distinction explains why witness ac
 6.<a id="endnote-6"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireGuide to the Betty and Barney Hill Papers, 1961-2006...</p></details>
 
 7.<a id="endnote-7"></a>

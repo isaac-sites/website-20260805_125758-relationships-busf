@@ -768,7 +768,6 @@ The lasting importance of the Hill case is therefore not that it settled the que
 1.<a id="endnote-1"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link:https://library.unh.edu/find/archives/collections/betty-barney-hill-papers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>University of New HampshireGuide to the Betty and Barney Hill Papers, 1961-2006...</p></details>
 
 2.<a id="endnote-2"></a>
